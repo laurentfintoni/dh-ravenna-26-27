@@ -1,5 +1,5 @@
 /*!
- * @theme custom
+ * @theme ravenna
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -16,6 +16,8 @@
   --code-bg: #f8f8f8;
   --font-size: 28px;
   --font-size-impact: 128px;
+  --font-size-quote: 32px;    /* blockquote / pull quote */
+  --font-size-quote-sm: 27px; /* smaller quote, via `<!-- _class: quote-sm -->` */
   --font-sans: 'Atkinson Hyperlegible', sans-serif;
   --font-mono: 'Lucida Console', Monaco, monospace;
 }
@@ -172,6 +174,19 @@ h3 {
 li {
   margin-bottom: 0.25em;
 }
+
+/* Blockquote = pull quote (ported from 2nd-year crash-course theme, 2026-11-04) */
+blockquote {
+  border-left: 8px solid var(--primary);
+  margin: 0.5em 0;
+  padding: 0.2em 0 0.2em 1em;
+  font-size: var(--font-size-quote);
+  color: var(--text-dark);
+}
+/* smaller quote: `<!-- _class: quote-sm -->` when a pull quote overflows */
+section.quote-sm blockquote { font-size: var(--font-size-quote-sm); }
+/* on dark impact slides */
+section.impact blockquote { border-left-color: var(--text-light); color: var(--text-light); }
 
 /* Code */
 code,

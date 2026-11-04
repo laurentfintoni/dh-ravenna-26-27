@@ -1,8 +1,22 @@
 #!/bin/bash
+# Usage: ./generate.sh            -> export all lessons
+#        ./generate.sh 01 03      -> export only lessons/01 and lessons/03
+# Always run from DH_ravenna/ (the script resolves its own location anyway).
 
-cd lessons || exit 1
+cd "$(dirname "$0")/lessons" || exit 1
 
-for dir in */; do
+if [ $# -gt 0 ]; then
+  dirs=()
+  for arg in "$@"; do dirs+=("${arg%/}/"); done
+else
+  dirs=(*/)
+fi
+
+for dir in "${dirs[@]}"; do
+  if [ ! -d "$dir" ]; then
+    echo "Skipping $dir: no such folder in lessons/"
+    continue
+  fi
   echo "Processing $dir"
   cd "$dir" || continue
 

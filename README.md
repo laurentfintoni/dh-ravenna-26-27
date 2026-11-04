@@ -111,22 +111,7 @@ Importantly, the non-use of Generative AI and LLMs is encouraged. Students must 
 | 10 | Mon 30-11-2026 | Working with text | Digital transcription, encoding (TEI overview), text analysis | Voyant; Recogito optional | Text groups: corpus and metadata table |
 | 11 | Thu 03-12-2026 | Maps and space | GIS and historical cartography; geocoding | Leaflet map template (Hands-On Data Visualization); StoryMapJS or Allmaps (IIIF integration) as alternatives for the map track | Map groups: map template running |
 | 12 | Fri 04-12-2026 | **Workshop:** collections and prototyping | Interface as argument ("How a Prototype Argues"); minimal computing | CollectionBuilder intro: load a CSV, IIIF URL integration, publish on GitHub Pages; map and text groups build | **Live site skeleton**, all tracks |
-| 13 | Mon 07-12-2026 | Images and visualisation | IIIF; image processing and virtual restoration; 3D capture and virtual reconstruction (survey and case studies); chart choice, visualisation pitfalls, accessibility | IIIF viewers and manifests; annotate an image; RAWGraphs or Palladio optional; build time | Images or a visualisation added, with alt text |
+| 13 | Thu 10-12-2026 | Images and visualisation | IIIF; image processing and virtual restoration; 3D capture and virtual reconstruction (survey and case studies); chart choice, visualisation pitfalls, accessibility | IIIF viewers and manifests; annotate an image; RAWGraphs or Palladio optional; build time | Images or a visualisation added, with alt text |
 | **D** | | **Sharing** | | | |
-| 14 | Thu 10-12-2026 | Open Science and preservation | Open Science, FAIR, PIDs, repositories, sustainability | Write README; get ORCID; test Zenodo deposit from a GitHub release | README and test deposit |
-| 15 | Fri 11-12-2026 | **Workshop:** critique | Evaluating DH work; finalise criteria from lesson 02 | Present work in progress; peer critique; exam briefing | **Prototype v1 + feedback** |
-
-### GenAI guidelines
-
-*Working notes for drafting the guidelines, not the final text.*
-
-Your documentation rules fit well: Unibo's guidance already asks for the tool and version, date or period, how it was used, saved exchanges, a reason for using it, and a clear split between personal and AI work. That needs four adjustments:
-
-1. **Format:** use one `GENAI.md` per repo, because CSVs can't carry a banner. Each entry adds what was kept, changed and checked. The repo is public, so prompts must contain no personal data.
-2. **What counts:** define the boundary, for example generating, transforming or analysing project content. State where spellcheck, translation tools and AI search summaries fall. Your udm14 exercise gives you a natural way to raise this.
-3. **Accessibility:** assistive use shouldn't lose the bonus. Your README commits to supporting students with disabilities or SLDs, and Unibo names accessibility as a GenAI benefit.
-4. **Group fairness:** one member's use could cost everyone the bonus. I'd make non-use a unanimous group choice recorded in the charter, changeable through a worklog entry.
-
-Keep the bonus small: I suggest +2 at most, applied only after a pass. A larger bonus makes false declarations more tempting, which weakens the honest record you want. I'd also ask both sides for a short reason for their choice, with one question at the oral. I'm not suggesting you verify it, only that the choice gets assessed, as the README says.
-
-I read Unibo's web guidance but not the policy PDF, and I saw nothing there about grade bonuses. It's worth checking the PDF or asking the programme coordinator.
+| 14 | Fri 11-12-2026 | Open Science and preservation | Open Science, FAIR, PIDs, repositories, sustainability | Write README; get ORCID; test Zenodo deposit from a GitHub release | README and test deposit |
+| 15 | Mon 14-12-2026 | **Workshop:** critique | Evaluating DH work; finalise criteria from lesson 02 | Present work in progress; peer critique; exam briefing | **Prototype v1 + feedback** |
