@@ -188,6 +188,13 @@ section.quote-sm blockquote { font-size: var(--font-size-quote-sm); }
 /* on dark impact slides */
 section.impact blockquote { border-left-color: var(--text-light); color: var(--text-light); }
 
+/* Steps: `<!-- _class: steps -->` + a `*` (or `1)`) list. Marp fragments `*`/`1)` items
+   (revealed one per arrow/space press); this hides the markers so they read as plain lines.
+   Ported from the 2nd-year crash-course theme 2026-11-04; keeps Ravenna's body font size. */
+section.steps ul, section.steps ol { list-style: none; padding-left: 0; }
+section.steps li { margin: 0.7em 0; }
+section.steps li::marker { content: ''; }
+
 /* Code */
 code,
 pre {
