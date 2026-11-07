@@ -15,7 +15,7 @@
   --text-light: #fff;
   --code-bg: #f8f8f8;
   --font-size: 28px;
-  --font-size-impact: 128px;
+  --font-size-impact: 96px;   /* section-break h1 (impact class) */
   --font-size-quote: 32px;    /* blockquote / pull quote */
   --font-size-quote-sm: 27px; /* smaller quote, via `<!-- _class: quote-sm -->` */
   --font-sans: 'Atkinson Hyperlegible', sans-serif;
@@ -185,8 +185,6 @@ blockquote {
 }
 /* smaller quote: `<!-- _class: quote-sm -->` when a pull quote overflows */
 section.quote-sm blockquote { font-size: var(--font-size-quote-sm); }
-/* on dark impact slides */
-section.impact blockquote { border-left-color: var(--text-light); color: var(--text-light); }
 
 /* Steps: `<!-- _class: steps -->` + a `*` (or `1)`) list. Marp fragments `*`/`1)` items
    (revealed one per arrow/space press); this hides the markers so they read as plain lines.
@@ -257,17 +255,59 @@ a:hover {
   border-radius: 5px;
 }
 
-/* Impact slide */
+/* Impact slide = section break: `<!-- _class: impact -->`
+   Layout adapted from the 2nd-year crash-course theme (2026-11-07): top bar,
+   big left-aligned uppercase h1, h2 subtitle, optional h6 part label.
+   White background, magenta bar, dark text, **bold** in magenta.
+   Markdown: `###### Parte 2` / `# Metadati e **standard**` / `## Subtitle`.
+   Turn pagination off on these slides with `<!-- _paginate: false -->`. */
 section.impact,
 .impact {
-  background-color: var(--primary);
-  color: var(--text-light);
-  text-align: center;
+  background-color: var(--light);
+  color: var(--text-dark);
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem 4rem;
+}
+
+section.impact::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 12px;
+  background: var(--primary);
 }
 
 section.impact h1 {
   font-size: var(--font-size-impact);
-  color: var(--text-light);
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--text-dark);
+  margin: 0 0 0.25em;
+}
+
+section.impact h1 strong { color: var(--primary); }
+
+section.impact h2 {
+  font-weight: 400;
+  font-size: 40px;
+  color: var(--text-dark);
+  margin: 0;
+}
+
+section.impact h6 {
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--text-dark);
+  opacity: 0.6;
+  margin: 0 0 0.75em;
 }
 
 /* Footer / bottom bar */

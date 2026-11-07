@@ -97,9 +97,9 @@ Importantly, the non-use of Generative AI and LLMs is encouraged. Students must 
 | # | Date | Title | Theory | Practice | Project output |
 | - | ---- | ----- | ------ | -------- | -------------- |
 | **A** | | **Finding** | | | |
-| 01 | Mon 09-11-2026 | Introduction to DH | What DH is, DH values, course outline, exam, GenAI guidelines | Questionnaire; "something you've built"; find DH projects with udm14 and extract basic metadata | Individual reading/project diary starts |
-| 02 | Thu 12-11-2026 | Anatomy of a DH project | The project as basic unit; project types; sources → process → presentation | Reverse-engineer one example of each exam track: map, collection, text (Posner); draft evaluation criteria | Project interests; draft criteria |
-| 03 | Fri 13-11-2026 | **Workshop:** team formation | Values in practice (Spiro), labour and credit (Smith & Whearty), student collaborators' rights | Form cross-programme groups; intro to GitHub web interface and Markdown; write charter | **Charter** with roles, credits and GenAI stance; group repo; shared worklog starts |
+| 01 | Mon 09-11-2026 | Introduction to DH | What DH is, DH values, Data overview, course + exam outline | Icebreakers; Questionnaire; reflections on theory | Project diary starts (suggestion) |
+| 02 | Thu 12-11-2026 | Anatomy of a DH project | The project as basic unit; project types; sources → process → presentation; project criteria | Reverse-engineer one example of each exam track: map, collection, text (Posner); find DH projects with udm14 and extract basic metadata | Project interests |
+| 03 | Fri 13-11-2026 | **Workshop:** team formation | Values in practice (Spiro), labour and credit (Smith & Whearty), student collaborators' rights, GenAI guidelines | Form cross-programme groups; intro to GitHub web interface and Markdown; write charter | **Charter** with roles, credits and GenAI stance; group repo; shared worklog starts |
 | 04 | Mon 16-11-2026 | Research and data literacy | Finding and evaluating sources; data as "taken"; collections as data; critical AI literacy | Explore the vetted source list, including Italian archival portals and open collections; read a IIIF manifest; compare two GenAI outputs | Source shortlist |
 | **B** | | **Describing** | | | |
 | 05 | Thu 19-11-2026 | Metadata and standards | Data vs metadata; schemas; DC, MARC, LIDO/CIDOC-CRM, ISAD(G)/RiC | Describe one object in two standards; design a tag set for your domain | Draft metadata fields |
