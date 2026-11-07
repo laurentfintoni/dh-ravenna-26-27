@@ -260,7 +260,7 @@ a:hover {
    big left-aligned uppercase h1, h2 subtitle, optional h6 part label.
    White background, magenta bar, dark text, **bold** in magenta.
    Markdown: `###### Parte 2` / `# Metadati e **standard**` / `## Subtitle`.
-   Turn pagination off on these slides with `<!-- _paginate: false -->`. */
+   Page number stays on by default; `<!-- _paginate: false -->` hides it if wanted. */
 section.impact,
 .impact {
   background-color: var(--light);
