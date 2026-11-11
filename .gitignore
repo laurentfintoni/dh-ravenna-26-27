@@ -1,5 +1,19 @@
-ideas_dump.md
+# OS / editor / env
 .venv/
 .DS_Store
 node_modules/
 __pycache__/
+
+# local-only files, not for the public repo
+ideas_dump.md
+.vscode/
+data/
+.python-version
+pyproject.toml
+
+# lessons: ignore every subfolder except the allowlisted (live) ones.
+# To publish a new lesson, add a line below:  !lessons/NN/
+lessons/*/
+!lessons/00/
+!lessons/01/
+!lessons/02/
