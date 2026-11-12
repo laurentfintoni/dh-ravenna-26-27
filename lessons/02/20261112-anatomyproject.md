@@ -8,7 +8,7 @@ paginate: true
 <!-- _paginate: false -->
 <!-- _footer: Image: EPFL, DHLab. <a href="https://www.epfl.ch/labs/dhlab/" target="_blank">Source</a>. -->
 
-![bg right](https://www.epfl.ch/labs/dhlab/wp-content/uploads/2022/03/dhlab-website-frontpage-1920x1080.jpg)
+![bg right](img/dhlab-website-frontpage-1920x1080.jpg)
 
 # Digital Humanities / Data Management / Informatica per i Beni Culturali (2026/2027)
 
@@ -21,7 +21,7 @@ paginate: true
 ---
 
 <!-- _footer: Image: Van Gogh self portrait, Europeana. <a href="https://unsplash.com/photos/self-portrait-of-vincent-van-gogh-with-hat-w5sZ5pohapM" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/photo-1750330079912-f94aff550e53?q=80&w=1361)
+![bg right](img/photo-1750330079912-f94aff550e53.jpg)
 
 ### C'era una volta... 
 
@@ -59,7 +59,7 @@ Il tutto per offrire nuovi spunti di riflessione sull’archivio di un artista.
 ---
 
 <!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: Breslau und Umgebung, Europeana. <a href="https://unsplash.com/photos/a-historical-city-plan-with-colored-land-use-zones-80_YUVWteBY" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/photo-1717700299588-ee73dc7de1fa?q=80&w=2630)
+![bg right](img/photo-1717700299588-ee73dc7de1fa.jpg)
 
 ### Why projects? 
 
@@ -75,7 +75,7 @@ I progetti sono iterativi e proiettivi, guardano a ciò che ancora non è, a ci�
 
 <!-- _paginate: false -->
 <!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: ADLab, Unibo. -->
-![bg left](https://site.unibo.it/adlab/it/laboratorio/il-progetto/@@eod.tiles.richtext/a23a90758379417ba5ddbecc00bc44a9/@@images/d5a11bf1-0c31-495c-95c0-af044e64ccec.jpeg)
+![bg left](img/d5a11bf1-0c31-495c-95c0-af044e64ccec.jpeg)
 
 ### Who is involved?  
 
@@ -90,7 +90,7 @@ Tipi di ruoli: responsabile di progetto, ricercatore, progettista, programmatore
 ---
 
 <!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: UCLA Students. Source: UCLA Newsroom. -->
-![bg right](https://s3.amazonaws.com/cms.ipressroom.com/173/files/20267/Group+Study.jpeg)
+![bg right](img/Group_Study.jpeg)
 
 ### How is it organized? 
 
@@ -119,7 +119,7 @@ Riconoscono le **potenzialità del digitale** pur rispettando l’importanza del
 ---
 
 <!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: Unsplash. <a href="https://unsplash.com/photos/sign-with-numbers-404-in-a-field-WCS8Ew14QqA" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/photo-1769689461237-a954e9df3aa4?q=80&w=1285)
+![bg right](img/photo-1769689461237-a954e9df3aa4.jpg)
 
 ### Credits & afterlife   
 
@@ -186,7 +186,7 @@ Qui torniamo al tema della collaborazione: a volte può essere necessario ricorr
 ---
 
 <!-- _footer: Image: Laurent Fintoni. -->
-![bg right](https://studies.laurentfintoni.com/walls-bologna/media/BG/IMG_2728_2.png)
+![bg right](img/IMG_2728_2.png)
 
 ### I tre ambiti dell'esame: mapping 
 
@@ -214,7 +214,7 @@ Strumenti: Leaflet JS; HTML; Catalogue software (e.g. Omeka).
 ---
 
 <!-- _footer: Image/Source: Letters to St. Catharines. -->
-![bg right](https://collectionbuilder.github.io/cb-examples/objects/small/example0090_sm.jpg)
+![bg right](img/example0090_sm.jpg)
 
 ### I tre ambiti dell'esame: collection 
 
@@ -240,7 +240,7 @@ Strumenti: CollectionBuilder; Spreadsheet databases.
 ---
 
 <!-- _footer: Image: Voyant Tools homepage. Source: Programming Historian. -->
-![bg right contain](https://programminghistorian.org/images/analisis-voyant-tools/en-tr-corpus-analysis-voyant-tools-04.png)
+![bg right contain](img/en-tr-corpus-analysis-voyant-tools-04.png)
 
 ### I tre ambiti dell'esame: text 
 
@@ -252,7 +252,7 @@ L'idea è quella di utilizzare l'analisi testuale e le visualizzazioni per evide
 
 <!-- _paginate: false -->
 <!-- _footer: Appel, K. (202)). "The Viral Virus". ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/816472ff4486409da34a5c28ab87524d. Image: Voyant Tools. Source: Wikipedia. -->
-![bg left contain](https://upload.wikimedia.org/wikipedia/commons/c/c4/Voyant_Tools.png)
+![bg left contain](img/Voyant_Tools.png)
 
 ### I tre ambiti dell'esame: text 
 
@@ -281,7 +281,7 @@ Strumenti: Voyant Tools; OCR; Timelines.
 ---
 
 <!-- _footer: Rider, J. (2014). “How Did They Make That? Reverse-Engineering Digital Projects” with Miriam Posner. <a href="https://studentwork.prattsi.org/dh/2014/04/02/how-did-they-make-that-reverse-engineering-digital-projects/" target="_blank">DH@Pratt</a>. Image: Unsplash. <a href="https://unsplash.com/illustrations/a-blue-and-white-icon-of-two-gears-Nyy01QsYvL4" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/vector-1738926530979-6e7d7a06352d?q=80&w=1760)
+![bg right](img/vector-1738926530979-6e7d7a06352d.png)
 
 ### Reverse engineering 
 
@@ -313,7 +313,7 @@ Chi si occupa della manutenzione del progetto? È possibile realizzarlo in modo 
 ---
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/vintage-map-of-the-arctic-region-and-surrounding-continents-8tz9nCt_v9o" target="_blank">Source</a>. -->
-![bg left](https://images.unsplash.com/photo-1729944283512-9cb9cb6c4ca8?q=80&w=1244)
+![bg left](img/photo-1729944283512-9cb9cb6c4ca8.jpg)
 
 ### Reverse engineering per voi
 
@@ -333,7 +333,7 @@ Cercate la documentazione (non sempre è disponibile!). Cercate i crediti. Fatte
 ---
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/intricate-brown-and-white-batik-fabric-with-bird-motif-7rkDCrENdbU" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/photo-1762111908760-ce1cd8c135e4?q=80&w=1760)
+![bg right](img/photo-1762111908760-ce1cd8c135e4.jpg)
 
 ### Linee guida per l'esame 
 
@@ -346,7 +346,7 @@ Vi consiglio di leggerle almeno una volta prima della prossima lezione, sia nel 
 ---
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/traditional-batik-pattern-with-stylized-human-figures-and-birds-ItlRH9hiACw" target="_blank">Source</a>. -->
-![bg left](https://images.unsplash.com/photo-1761517099179-f4cb87757873?q=80&w=1760)
+![bg left](img/photo-1761517099179-f4cb87757873.jpg)
 
 ### Requisiti del prototipo
 
@@ -364,7 +364,7 @@ Ciascuno di questi elementi verrà illustrato nel corso del corso (vedere le lin
 ---
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/a-collection-of-diverse-animals-on-a-patterned-background-fkmJhg6KxSQ" target="_blank">Source</a>. -->
-![bg right](https://images.unsplash.com/photo-1761517099167-98255de4fabf?q=80&w=1760)
+![bg right](img/photo-1761517099167-98255de4fabf.jpg)
 
 ### Domanda di ricerca
 
@@ -377,7 +377,7 @@ Pensate a ciò che vi interessa, a ciò che state studiando, a quali approcci vi
 ---
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/intricate-brown-and-cream-batik-fabric-pattern-with-birds-NQTV3KlJ_9o" target="_blank">Source</a>. -->
-![bg left](https://images.unsplash.com/photo-1761517099223-5b3775da4c16?q=80&w=1760)
+![bg left](img/photo-1761517099223-5b3775da4c16.jpg)
 
 ### Domanda di ricerca
 
@@ -393,7 +393,7 @@ Alcune idee di partenza:
 
 <!-- _paginate: false -->
 
-![bg right](https://www.epfl.ch/labs/dhlab/wp-content/uploads/2022/03/dhlab-website-frontpage-1920x1080.jpg)
+![bg right](img/dhlab-website-frontpage-1920x1080.jpg)
 
 # Digital Humanities / Data Management / Informatica per i Beni Culturali (2026/2027)
 
