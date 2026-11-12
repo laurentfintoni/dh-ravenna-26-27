@@ -50,6 +50,12 @@ This repository contains the lesson files for the course, alongside useful links
 
 ### GenAI Disclosure
 
-Claude Code is used for the following: manage git for this project (local and remote to GitHub); scripts for a local knowledge base (runs via context-mode plugin), in which I ingest key literature to allow me to search references or ideas (no incl. in this repo); ideation (no written output used in slides); css boilerplate and tweaks. 
+Claude Code is used for the following: manage git for this project (local and remote to GitHub); scripts for a local knowledge base (runs via context-mode plugin), in which I ingest key literature to allow me to search references or ideas (no incl. in this repo); ideation (no written output used in slides); css boilerplate and tweaks.
+
+### Credits & License
+
+The slides theme is based on the one used by Sebastian Barzaghi for the [previous version of this course](https://github.com/dhdmch/2025-2026). This includes the use of Unsplash for public domain works or works reusable under the Unsplash license. 
+
+All materials used for the slides - papers, presentations, blog posts, etc. - are cited in the slides and also included (with some limitations) in the course bibliography. 
 
 All content within this repo I have the rights to is made available under a CC0-1.0 license (this excludes things like Marp etc).

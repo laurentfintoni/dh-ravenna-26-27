@@ -134,7 +134,7 @@ Ma i progetti presentano anche l’inconveniente di richiedere **un’attenzione
 
 ### In summary... 
 
-I progetti possono essere visti come una forma di “method as inquiry” e, nelle DH, ciò significa spesso combinare approcci tradizionali (the scientific method) con approcci ludici e sperimentali.
+I progetti possono essere visti come una forma di “method as inquiry” e, nelle DH, ciò significa spesso combinare approcci tradizionali (the scientific method) con approcci ludici e sperimentali. 
 
 L’importanza non è posta solo sul pensare, ma sul fare, e su come questo aiuti a pensare. A volte bisogna commettere un errore per fare qualcosa nel modo giusto.
 
@@ -161,7 +161,7 @@ Alcuni aspetti da considerare quando si sviluppa o si valuta un lavoro basato su
 
 Come abbiamo visto nella prima lezione, le possibilità per i progetti di DH sono molteplici.
 
-Nel 2013, Miriam Posner ha fornito agli studenti il seguente elenco iniziale e alcuni esempi: <a href="https://1989.rrchnm.org/" target="_blank">un archivio di fonti</a>; <a href="https://cather.unl.edu/" target="_blank">edizione scientifica digitale</a>; <a href="https://digital.library.sc.edu/collections/the-negro-travelers-green-book-1956/" target="_blank">mappatura</a>; <a href="https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/" target="_blank">visualizzazione di rete</a>; <a href="https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/" target="_blank">analisi testuale</a>; <a href="https://guzdenvarinlioglu.wordpress.com/archaeology/digital-anatolia/" target="_blank">modelli 3D</a>; <a href="http://nicestkids.com/nehvectors/nicest-kids/index" target="_blank">narrazione multimediale</a>.
+Nel 2013, Miriam Posner ha fornito il seguente elenco iniziale e alcuni esempi: <a href="https://1989.rrchnm.org/" target="_blank">un archivio di fonti</a>; <a href="https://cather.unl.edu/" target="_blank">edizione scientifica digitale</a>; <a href="https://digital.library.sc.edu/collections/the-negro-travelers-green-book-1956/" target="_blank">mappatura</a>; <a href="https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/" target="_blank">visualizzazione di rete</a>; <a href="https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/" target="_blank">analisi testuale</a>; <a href="https://guzdenvarinlioglu.wordpress.com/archaeology/digital-anatolia/" target="_blank">modelli 3D</a>; <a href="http://nicestkids.com/nehvectors/nicest-kids/index" target="_blank">narrazione multimediale</a>.
 
 A distanza di 13 anni, la sua argomentazione rimane valida: _è difficile stilare un elenco davvero rappresentativo_.
 
