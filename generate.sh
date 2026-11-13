@@ -24,8 +24,8 @@ for dir in "${dirs[@]}"; do
   for mdfile in *.md; do
     echo " - Generating HTML and PDF for $mdfile"
     base="${mdfile%.md}"
-    marp "$mdfile" -o "${base}.html" --theme ../../theme.css
-    marp "$mdfile" -o "${base}.pdf" --theme ../../theme.css --allow-local-files
+    marp --no-stdin "$mdfile" -o "${base}.html" --theme ../../theme.css
+    marp --no-stdin "$mdfile" -o "${base}.pdf" --theme ../../theme.css --allow-local-files
   done
   shopt -u nullglob
 
