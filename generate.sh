@@ -22,10 +22,10 @@ for dir in "${dirs[@]}"; do
 
   shopt -s nullglob
   for mdfile in *.md; do
-    echo " - Generating HTML and PPTX for $mdfile"
+    echo " - Generating HTML and PDF for $mdfile"
     base="${mdfile%.md}"
     marp "$mdfile" -o "${base}.html" --theme ../../theme.css
-    marp "$mdfile" -o "${base}.pptx" --theme ../../theme.css --allow-local-files
+    marp "$mdfile" -o "${base}.pdf" --theme ../../theme.css --allow-local-files
   done
   shopt -u nullglob
 
