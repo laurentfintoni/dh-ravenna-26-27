@@ -60,7 +60,7 @@ Il tutto per offrire nuovi spunti di riflessione sull’archivio di un artista.
 
 ---
 
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: Breslau und Umgebung, Europeana. <a href="https://unsplash.com/photos/a-historical-city-plan-with-colored-land-use-zones-80_YUVWteBY" target="_blank">Source</a>. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 Image: Breslau und Umgebung, Europeana. <a href="https://unsplash.com/photos/a-historical-city-plan-with-colored-land-use-zones-80_YUVWteBY" target="_blank">Source</a>. -->
 
 ![bg right](img/photo-1717700299588-ee73dc7de1fa.jpg)
 
@@ -77,7 +77,7 @@ I progetti sono iterativi e proiettivi, guardano a ciò che ancora non è, a ci�
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: ADLab, Unibo. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 Image: ADLab, Unibo. -->
 
 ![bg left](img/d5a11bf1-0c31-495c-95c0-af044e64ccec.jpeg)
 
@@ -93,7 +93,7 @@ Tipi di ruoli: responsabile di progetto, ricercatore, progettista, programmatore
 
 ---
 
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: UCLA Students. Source: UCLA Newsroom. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 Image: UCLA students, UCLA Newsroom. -->
 
 ![bg right](img/Group_Study.jpeg)
 
@@ -110,7 +110,7 @@ Le dimensioni non contano. Ciò che conta è il contributo che il progetto appor
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: <a href="https://rossettiarchive.iath.virginia.edu/" target="_blank">Rossetti Archive</a>, University of Virginia. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 Image: Rossetti Archive, University of Virginia. <a href="https://rossettiarchive.iath.virginia.edu/" target="_blank">Source</a>. -->
 
 ![bg left](img/rossetti_archive.jpg)
 
@@ -124,7 +124,7 @@ Riconoscono le **potenzialità del digitale** pur rispettando l’importanza del
 
 ---
 
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. Image: Unsplash. <a href="https://unsplash.com/photos/sign-with-numbers-404-in-a-field-WCS8Ew14QqA" target="_blank">Source</a>. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 Image: Unsplash. <a href="https://unsplash.com/photos/sign-with-numbers-404-in-a-field-WCS8Ew14QqA" target="_blank">Source</a>. -->
 
 ![bg right](img/photo-1769689461237-a954e9df3aa4.jpg)
 
@@ -138,7 +138,7 @@ Ma i progetti presentano anche l’inconveniente di richiedere **un’attenzione
 
 ---
 
-<!-- _footer: Burdick et al. (2012). *Digital_Humanities*. MIT Press. <a href="https://web.archive.org/web/20161026210950/https://mitpress.mit.edu/sites/default/files/9780262018470_Open_Access_Edition.pdf" target="_blank">Open Access</a>. -->
+<!-- _footer: Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). *Digital_Humanities*. The MIT Press. https://doi.org/10.7551/mitpress/9248.001.0001 -->
 
 ### In summary...
 
@@ -161,7 +161,7 @@ Alcuni aspetti da considerare quando si sviluppa o si valuta un lavoro basato su
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Posner, M. (2013). "How did they make that?". <a href="https://miriamposner.com/blog/how-did-they-make-that/" target="_blank">miriamposner.com </a>. Infographic, Bailey Betik. <a href="https://euppublishingblog.com/2023/10/20/graduate-education-digital-humanities/" target="_blank">Source</a>. -->
+<!-- _footer: Posner, M. (2013). *How did they make that?* https://miriamposner.com/blog/how-did-they-make-that/ Image: Infographic, Bailey Betik. <a href="https://euppublishingblog.com/2023/10/20/graduate-education-digital-humanities/" target="_blank">Source</a>. -->
 
 ![bg left contain](img/0121.png)
 
@@ -175,7 +175,7 @@ A distanza di 13 anni, la sua argomentazione rimane valida: _è difficile stilar
 
 ---
 
-<!-- _footer: Andreose, E., Crosilla, G., Grillo, R., & Spinaci, G. (2026). Italian Digital Humanities Projects [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23434566. -->
+<!-- _footer: Andreose, E., Crosilla, G., Grillo, R., & Spinaci, G. (2026). *Italian Digital Humanities Projects* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23434566 -->
 
 ### Different types, different needs
 
@@ -208,7 +208,7 @@ L'idea è quella di consentire all'utente di **esplorare la domanda di ricerca d
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Fintoni, L. (2022). "i muri non finisco mai: Vernacular Memory on the Walls of Bologna". https://studies.laurentfintoni.com/walls-bologna/. Cranston, J. (2017). "Mapping Paintings". Boston University. https://www.mappingpaintings.org/. -->
+<!-- _footer: 1/ Fintoni, L. (2022). *i muri non finisco mai: Vernacular Memory on the Walls of Bologna*. https://studies.laurentfintoni.com/walls-bologna/ 2/ Cranston, J. (2017). *Mapping Paintings*. Boston University. https://www.mappingpaintings.org/ -->
 
 ![bg left vertical contain](img/muri.jpg)
 ![bg left vertical contain](img/paintings.jpg)
@@ -223,7 +223,7 @@ Strumenti: Leaflet JS; HTML; Catalogue software (e.g. Omeka).
 
 ---
 
-<!-- _footer: Image/Source: Letters to St. Catharines. -->
+<!-- _footer: Image: Letters to St. Catharines. -->
 
 ![bg right](img/example0090_sm.jpg)
 
@@ -236,7 +236,7 @@ L’idea è quella di consentire all’utente di **esplorare i dati in modo più
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Richard, J. (2021). "Letters to St. Catharines". CollectionBuilder. https://jessierichard.github.io/Letters-to-St.Catharines/. Sandkühler, J. (2026). "Ukraine's Built Heritage under Attack", CollectionBuilder. https://ukraines-heritage-attacked.leibniz-gwzo.de/. -->
+<!-- _footer: 1/ Richard, J. (2021). *Letters to St. Catharines*. CollectionBuilder. https://jessierichard.github.io/Letters-to-St.Catharines/ 2/ Sandkühler, J. (2026). *Ukraine's Built Heritage under Attack*. CollectionBuilder. https://ukraines-heritage-attacked.leibniz-gwzo.de/ -->
 
 ![bg left vertical contain](img/letters.jpg)
 ![bg left vertical contain](img/ukraine.jpg)
@@ -251,7 +251,7 @@ Strumenti: CollectionBuilder; Spreadsheet databases.
 
 ---
 
-<!-- _footer: Image: Voyant Tools homepage. Source: Programming Historian. -->
+<!-- _footer: Image: Voyant Tools homepage, Programming Historian. -->
 
 ![bg right contain](img/en-tr-corpus-analysis-voyant-tools-04.png)
 
@@ -264,7 +264,7 @@ L'idea è quella di utilizzare l'analisi testuale e le visualizzazioni per evide
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Appel, K. (202)). "The Viral Virus". ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/816472ff4486409da34a5c28ab87524d. Image: Voyant Tools. Source: Wikipedia. -->
+<!-- _footer: Appel, K. (2020). *The Viral Virus*. ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/816472ff4486409da34a5c28ab87524d Image: Voyant Tools, Wikipedia. -->
 
 ![bg left contain](img/Voyant_Tools.png)
 
@@ -279,7 +279,7 @@ Strumenti: Voyant Tools; OCR; Timelines.
 ---
 
 <!-- _class: steps -->
-<!-- _footer: Albrezzi, F & Drucker, J. (2025). *The Digital Humanities Coursebook*. Routledge. -->
+<!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. -->
 
 * > "When designing a digital project, ask whether using computational processes or Web‑based tools allows you to raise new questions, ask existing questions differently, or just add special effects. Are you able to generate new results and insights, or are you using digital platforms to show outcomes? Are you willing to invest in learning computational methods well enough to think with them?" — Drucker & Albrezzi (2025)
 
@@ -295,7 +295,7 @@ Strumenti: Voyant Tools; OCR; Timelines.
 
 ---
 
-<!-- _footer: Rider, J. (2014). “How Did They Make That? Reverse-Engineering Digital Projects” with Miriam Posner. <a href="https://studentwork.prattsi.org/dh/2014/04/02/how-did-they-make-that-reverse-engineering-digital-projects/" target="_blank">DH@Pratt</a>. Image: Unsplash. <a href="https://unsplash.com/illustrations/a-blue-and-white-icon-of-two-gears-Nyy01QsYvL4" target="_blank">Source</a>. -->
+<!-- _footer: Rider, J. (2014, April 2). *“How Did They Make That? Reverse-Engineering Digital Projects” with Miriam Posner*. DH@Pratt. https://studentwork.prattsi.org/dh/2014/04/02/how-did-they-make-that-reverse-engineering-digital-projects/ Image: Unsplash. <a href="https://unsplash.com/illustrations/a-blue-and-white-icon-of-two-gears-Nyy01QsYvL4" target="_blank">Source</a>. -->
 
 ![bg right](img/vector-1738926530979-6e7d7a06352d.png)
 

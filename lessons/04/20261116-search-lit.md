@@ -36,7 +36,7 @@ Finché non è arrivato un nuovo tipo di macchina.
 
 ---
 
-<!-- _footer: Novak, M. (2025). "Librarians Are Tired of Being Accused of Hiding Secret Books That Were Made Up by AI". https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176. Image: Unsplash. <a href="https://unsplash.com/photos/people-studying-under-lamps-in-a-library-hMlZ7CKA7TM" target="_blank">Source</a>. -->
+<!-- _footer: Novak, M. (2025). Librarians Are Tired of Being Accused of Hiding Secret Books That Were Made Up by AI. *Gizmodo*. https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176 Image: Unsplash. <a href="https://unsplash.com/photos/people-studying-under-lamps-in-a-library-hMlZ7CKA7TM" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1730047614287-65e28e013ce1?q=80&w=2682)
 
@@ -60,11 +60,11 @@ Le fonti hanno sempre contenuto menzogne, ma ora queste sono più frequenti e po
 
 ---
 
-<!-- _footer: Bishop, C. (2023). "Information Overload". ARTFORUM.  https://www.artforum.com/features/claire-bishop-on-the-superabundance-of-research-based-art-252571/. -->
+<!-- _footer: Bishop, C. (2023). Information Overload. *Artforum*. https://www.artforum.com/features/claire-bishop-on-the-superabundance-of-research-based-art-252571/ -->
 
 ### Search vs Research
 
-> "Searching is the preliminary stage of looking for something [...] Research proper involves analysis, evaluation, and a new way of approaching a problem." - Claire Bishop, 2023
+> "Searching is the preliminary stage of looking for something [...] Research proper involves analysis, evaluation, and a new way of approaching a problem." — Bishop (2023)
 
 È una distinzione semplice ma importante. Il modo in cui si effettua la ricerca è spesso influenzato dalle tecnologie con cui siamo cresciuti. Si deve adattare. Un sistema che un tempo davi per scontato potrebbe non funzionare più come desideri o di cui hai bisogno.
 
@@ -72,11 +72,11 @@ A volte, adattarsi può anche significare fare un passo indietro, per abbracciar
 
 ---
 
-<!-- _footer: Grinnel College Libraries. "Teaching Research Literacy". https://www.grinnell.edu/academics/libraries/faculty-staff/services-teaching/teaching-research-literacy. -->
+<!-- _footer: Grinnell College Libraries. (n.d.). *Teaching Research Literacy*. https://www.grinnell.edu/academics/libraries/faculty-staff/services-teaching/teaching-research-literacy -->
 
 ### Research literacy
 
-> “Research literacy is a set of **interdisciplinary, transferable competencies** that help individuals determine and diminish knowledge gaps. [...] Research literacy is the sum of the attributes required of lifelong learners.” - Grinnel College Libraries
+> “Research literacy is a set of **interdisciplinary, transferable competencies** that help individuals determine and diminish knowledge gaps. [...] Research literacy is the sum of the attributes required of lifelong learners.” — Grinnell College Libraries (n.d.)
 
 Nel mondo accademico ciò significa rispondere a una domanda di ricerca o a un’ipotesi avvalendosi di ricerche, risultati e approfondimenti già esistenti. Nel mondo reale significa essere in grado di risolvere un problema ampliando le proprie conoscenze. Si tratta di un percorso che dura tutta la vita.
 
@@ -84,14 +84,14 @@ Nel mondo accademico ciò significa rispondere a una domanda di ricerca o a un�
 
 ---
 
-<!-- _footer: Beaudry, J & Miller, L. (2016). *Research Literacy: A Primer for Understanding and Using Research*. Guilford Publications. (<a href="https://books.google.it/books?id=emueCwAAQBAJ&source=gbs_navlinks_s" target="_blank">Google Books</a>). -->
+<!-- _footer: Beaudry, J., & Miller, L. (2016). *Research Literacy: A Primer for Understanding and Using Research*. Guilford Publications. https://books.google.it/books?id=emueCwAAQBAJ -->
 
 ![bg contain horizontal](img/research_lit_1.png)
 ![bg contain horizontal](img/research_lit_2.png)
 
 ---
 
-<!-- _footer: ACRL. "Framework for Information Literacy for Higher Education". https://www.ala.org/acrl/standards/ilframework. Image: Unsplash. <a href="https://unsplash.com/photos/a-picture-of-a-painting-on-a-wall-P3aEFrDcRjY" target="_blank">Source</a>. -->
+<!-- _footer: ACRL. (2015). *Framework for Information Literacy for Higher Education*. https://www.ala.org/acrl/standards/ilframework Image: Unsplash. <a href="https://unsplash.com/photos/a-picture-of-a-painting-on-a-wall-P3aEFrDcRjY" target="_blank">Source</a>. -->
 
 ![bg left](https://images.unsplash.com/photo-1703583955193-f6f4fdb84601?q=80&w=1350)
 
@@ -108,7 +108,7 @@ Pietra miliare fondamentale della research literacy. Ecco i 6 principi su cui si
 
 ---
 
-<!-- _footer: ACRL. "Framework for Information Literacy for Higher Education". https://www.ala.org/acrl/standards/ilframework. Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-that-is-on-a-wall-JapoB9GcCz4" target="_blank">Source</a>. -->
+<!-- _footer: ACRL. (2015). *Framework for Information Literacy for Higher Education*. https://www.ala.org/acrl/standards/ilframework Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-that-is-on-a-wall-JapoB9GcCz4" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1704121112682-92e352840bca?q=80&w=1369)
 
@@ -207,11 +207,11 @@ Parleremo dei diritti, compreso il riutilizzo, nella Lezione 07. Per ora basta s
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: Abner, K. (2020). "Data Literacy as Digital Humanities Literacy: Exploration of Threshold Concepts". dh+lib. https://dhandlib.org/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/. -->
+<!-- _footer: Abner, K. (2020). Data Literacy as Digital Humanities Literacy: Exploration of Threshold Concepts. *dh+lib*. https://dhandlib.org/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/ -->
 
 ### Data Literacy
 
-> “Digital humanities literacy is a combination of many literacy areas. Still, **the prevalence of data in both our daily lives and in digital humanities places data literacy in a position of importance**.” – Kayla Abner, 2020
+> “Digital humanities literacy is a combination of many literacy areas. Still, **the prevalence of data in both our daily lives and in digital humanities places data literacy in a position of importance**.” — Abner (2020)
 
 Oggi, l'information literacy si sta espandendo verso nuove forme di alfabetizzazione specifica, come la data literacy.
 
@@ -219,7 +219,7 @@ Data literacy, in senso lato, è la capacità di **creare, manipolare, gestire, 
 
 ---
 
-<!-- _footer: Abner, K. (2020). "Data Literacy as Digital Humanities Literacy: Exploration of Threshold Concepts". dh+lib. https://dhandlib.org/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/.Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-green-circle-on-top-of-it-s2UR2Wg0Fec" target="_blank">Source</a>. -->
+<!-- _footer: Abner, K. (2020). Data Literacy as Digital Humanities Literacy: Exploration of Threshold Concepts. *dh+lib*. https://dhandlib.org/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/ Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-green-circle-on-top-of-it-s2UR2Wg0Fec" target="_blank">Source</a>. -->
 
 ![bg left](https://images.unsplash.com/photo-1699304050690-d4e88121bef6?q=80&w=1229)
 
@@ -236,7 +236,7 @@ Data literacy, in senso lato, è la capacità di **creare, manipolare, gestire, 
 
 ---
 
-<!-- _footer: d'Ignazio, C & Klein, L. (2020). *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/. Risam, R. (2026). *Data Empire*. Random House. Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-circle-and-lines-on-it-p1b063_AAqY" target="_blank">Source</a>. -->
+<!-- _footer: 1/ D'Ignazio, C., & Klein, L. (2020). *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/ 2/ Risam, R. (2026). *Data Empire*. Random House. Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-circle-and-lines-on-it-p1b063_AAqY" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1699304050881-ee5f60712064?q=80&w=1249)
 
@@ -254,7 +254,7 @@ Come sostiene Roopika Risam, "anche se non tutto è dato, i dati sono ovunque."
 
 ---
 
-<!-- _footer: Candela et al. (2024). "Introduction to Collections as Data". Version 1.0.0. DARIAH Campus [Training module]. https://hdl.handle.net/21.11159/019595c5-1bc8-751c-8201-bcdb34955a96. Collections as Data. "Part to Whole". https://collectionsasdata.github.io/part2whole/. Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-lot-of-different-colors-on-it-O4gzS4NUEAc" target="_blank">Source</a>. -->
+<!-- _footer: 1/ Candela, G., Dritsou, V., Chambers, S., Benardou, A., Irollo, A., & Tasovac, T. (2024). *Introduction to Collections as Data* (Version 1.0.0) [Training module]. DARIAH-Campus. https://hdl.handle.net/21.11159/019595c5-1bc8-751c-8201-bcdb34955a96 2/ Collections as Data. (n.d.). *Part to Whole*. https://collectionsasdata.github.io/part2whole/ Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-lot-of-different-colors-on-it-O4gzS4NUEAc" target="_blank">Source</a>. -->
 
 ![bg left](https://images.unsplash.com/photo-1700607687445-dfeeab458701?q=80&w=1259)
 
@@ -268,7 +268,7 @@ Attualmente si sta lavorando su l’implementazione e l’uso responsabile.
 
 ---
 
-<!-- _footer: Drucker, J. (2011). "Humanities Approaches to Graphical Display". Digital Humanities Quarterly. https://dhq.digitalhumanities.org/vol/5/1/000091/000091.html. Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-blue-and-brown-squares-on-it-0_erDmzjMkA" target="_blank">Source</a>. -->
+<!-- _footer: Drucker, J. (2011). Humanities Approaches to Graphical Display. *Digital Humanities Quarterly*, *5*(1). https://dhq.digitalhumanities.org/vol/5/1/000091/000091.html Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-blue-and-brown-squares-on-it-0_erDmzjMkA" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1704121113037-5d3557a72423?q=80&w=1277)
 
@@ -290,7 +290,7 @@ I dati incarnano delle scelte su cosa contare e in che modo. Sono interpretazion
 
 ---
 
-<!-- _footer: Lodi, M., & Martini, S. (2021). Computational thinking, between Papert and Wing. Science & education, 30(4), 883-908. https://doi.org/10.1007/s11191-021-00202-5. Image: Computational thinking cornerstones. Source: <a href="https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1" target="_blank">BBC</a>. -->
+<!-- _footer: Lodi, M., & Martini, S. (2021). Computational thinking, between Papert and Wing. *Science & Education*, *30*(4), 883–908. https://doi.org/10.1007/s11191-021-00202-5 Image: Computational thinking cornerstones, BBC. <a href="https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1" target="_blank">Source</a>. -->
 
 ![bg left auto](img/comp_thinking.png)
 
@@ -303,7 +303,7 @@ I dati incarnano delle scelte su cosa contare e in che modo. Sono interpretazion
 
 ---
 
-<!-- _footer: Stewart, B. (2026). DPI 2026 Keynote. https://uwaterloo.ca/digital-pedagogy-institute/keynotes. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-blue-buildings-and-figures-on-a-cream-background-rhkb5dmNBPQ" target="_blank">Source</a>. -->
+<!-- _footer: Stewart, B. (2026). *DPI 2026 Keynote*. Digital Pedagogy Institute, University of Waterloo. https://uwaterloo.ca/digital-pedagogy-institute/keynotes Image: Unsplash. <a href="https://unsplash.com/photos/abstract-blue-buildings-and-figures-on-a-cream-background-rhkb5dmNBPQ" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1743965127529-1de2aa469477?q=80&w=1313)
 
@@ -318,7 +318,7 @@ Significa **cose diverse per persone diverse in contesti diversi**: IA generativ
 ---
 
 <!-- _paginate: false -->
-<!-- _footer: McMillan Cottom, T. (2026). "Want to Fight Back Against Big Tech? Start Here." *The New York Times*. https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html. McMillan Cottom, T. (2026). "Data Politics". Instagram. https://www.instagram.com/p/Dbl8-8eGsrl/ Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-with-yellow-paint-on-it-4l1ahap6HJA" target="_blank">Source</a>. -->
+<!-- _footer: 1/ McMillan Cottom, T. (2026, August 3). Want to Fight Back Against Big Tech? Start Here. *The New York Times*. https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html 2/ McMillan Cottom, T. (2026). *Data Politics*. Instagram. https://www.instagram.com/p/Dbl8-8eGsrl/ Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-with-yellow-paint-on-it-4l1ahap6HJA" target="_blank">Source</a>. -->
 
 ![bg left](https://images.unsplash.com/photo-1700607687506-5149877683e8?q=80&w=1319)
 
@@ -326,7 +326,7 @@ Significa **cose diverse per persone diverse in contesti diversi**: IA generativ
 
 Ciò che conta, ma spesso rimane “non detto”, è che l’IA, come viene utilizzata la parola oggi, implica una <a href="https://www.instagram.com/p/Dbl8-8eGsrl/" target="_blank">teoria politica</a>.
 
-> "The technology is the backbone of a superstructure that merges regressive politics with unchecked economic power in the guise of technological innovation." - Tressie McMillan Cottom, 2026
+> "The technology is the backbone of a superstructure that merges regressive politics with unchecked economic power in the guise of technological innovation." — McMillan Cottom (2026)
 
 ---
 
@@ -358,7 +358,7 @@ Utilizzare le competenze già esistenti – ricerca, dati, informazioni – con 
 
 ---
 
-<!-- _footer: Buolamwini, J. (2018). Gender Shades. http://gendershades.org/overview.html. Albrezzi, F & Drucker, J. (2025). *The Digital Humanities Coursebook*. Routledge. Image: Unsplash. <a href="https://unsplash.com/photos/watercolor-painting-of-a-tree-by-a-lake-at-dusk-ptxJU7LdidI" target="_blank">Source</a>. -->
+<!-- _footer: 1/ Buolamwini, J. (2018). *Gender Shades*. http://gendershades.org/overview.html 2/ Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. Image: Unsplash. <a href="https://unsplash.com/photos/watercolor-painting-of-a-tree-by-a-lake-at-dusk-ptxJU7LdidI" target="_blank">Source</a>. -->
 
 ![bg right](https://images.unsplash.com/photo-1744573011676-93c278587d6e?q=80&w=1284)
 
@@ -390,11 +390,11 @@ I risultati devono essere interpretati nel loro contesto: storico, culturale, po
 ---
 
 <!-- _class: steps -->
-<!-- _footer: Who's Responsible for "Responsible AI"? Mystery AI Hype Theater 3000. https://www.buzzsprout.com/2126417/episodes/19595620-who-s-responsible-for-responsible-ai-2026-07-06. Casey Fiesler, Instagram, Aug. 21, 2026. https://www.instagram.com/reel/DcT8NGsq5hD/?stkn=Z3d4MGozZGQ3ZDJs. -->
+<!-- _footer: 1/ Bender, E. M., & Hanna, A. (Hosts). (2026, July 6). Who's Responsible for "Responsible AI"? [Audio podcast episode]. In *Mystery AI Hype Theater 3000*. https://www.buzzsprout.com/2126417/episodes/19595620-who-s-responsible-for-responsible-ai-2026-07-06 2/ Fiesler, C. (2026, August 21). *[Reel]*. Instagram. https://www.instagram.com/reel/DcT8NGsq5hD/ -->
 
-* > "It's like you're short-cutting yourself. You're taking away from the work. It's a lot of work. It's boring even. But then you arrive at the thing, and that's the process." - sava saheli singh, 2026
+* > "It's like you're short-cutting yourself. You're taking away from the work. It's a lot of work. It's boring even. But then you arrive at the thing, and that's the process." — singh (2026)
 
-* > "It is possible to learn about this technology without using it." - Casey Fiesler, 2026
+* > "It is possible to learn about this technology without using it." — Fiesler (2026)
 
 ---
 
