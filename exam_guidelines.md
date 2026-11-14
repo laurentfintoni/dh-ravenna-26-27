@@ -79,7 +79,20 @@ Ogni percorso prevede una serie di strumenti comuni. Tutti gli strumenti e le co
 
 ## <a id="5"></a>What are the data sources for the prototype? 
 
-Siete voi a scegliere i dati da usare. I suggerimenti al riguardo vi saranno comunicati dopo la prima settimana di corso, durante la lezione 4 (lunedì 16 novembre). Questo documento verrà aggiornato in quell’occasione con una lista di fonti per aiutarvi.
+Siete voi a scegliere i dati da usare. Per aiutarvi, ecco un elenco di fonti che potete consultare o da cui potete partire; tutte offrono diversi tipi di oggetti digitalizzati, tra cui mappe, testi e immagini.
+
+| Fonte | Paese |
+| --- | --- |
+| [Europeana](https://www.europeana.eu/it) | EU |
+| [Library of Congress](https://www.loc.gov/free-to-use/) | US |
+| [Leiden University](https://www.library.universiteitleiden.nl/special-collections/collections) | NL |
+| [AMS Historica](https://historica.unibo.it/home) | IT |
+| [National Gallery of Art](https://www.nga.gov/artworks/free-images-and-open-access) | US |
+| [Internet Culturale](https://www.internetculturale.it/) | IT |
+| [Alphabetica](https://alphabetica.it/web/alphabetica) | IT |
+| [Imago](https://imago.regione.emilia-romagna.it/opac/.do) | IT |
+| [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | – |
+| [Internet Archive](https://archive.org) | – |
 
 ## <a id="6"></a>GenAI/LLM guidelines 
 
