@@ -8,7 +8,7 @@ paginate: true
 <!-- _paginate: false -->
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/an-abstract-painting-of-a-person-holding-a-piece-of-paper-GAHhNJSOkmo" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1704121113061-d174b9b9219b?q=80&w=1329)
+![bg right](img/photo-1704121113061-d174b9b9219b.jpg)
 
 # DH & Data Management per i Beni Culturali (2026/2027)
 
@@ -22,7 +22,7 @@ paginate: true
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/two-women-talking-in-the-library-gm09x1AgA1A" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1579856703268-d123303cbd57?q=80&w=2048)
+![bg left](img/photo-1579856703268-d123303cbd57.jpg)
 
 ### C'era una volta...
 
@@ -38,7 +38,7 @@ Finché non è arrivato un nuovo tipo di macchina.
 
 <!-- _footer: Novak, M. (2025). Librarians Are Tired of Being Accused of Hiding Secret Books That Were Made Up by AI. *Gizmodo*. https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176 Image: Unsplash. <a href="https://unsplash.com/photos/people-studying-under-lamps-in-a-library-hMlZ7CKA7TM" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1730047614287-65e28e013ce1?q=80&w=2682)
+![bg right](img/photo-1730047614287-65e28e013ce1.jpg)
 
 ### C'è oggi...
 
@@ -66,9 +66,9 @@ Le fonti hanno sempre contenuto menzogne, ma ora queste sono più frequenti e po
 
 > "Searching is the preliminary stage of looking for something [...] Research proper involves analysis, evaluation, and a new way of approaching a problem." — Bishop (2023)
 
-È una distinzione semplice ma importante. Il modo in cui si effettua la ricerca è spesso influenzato dalle tecnologie con cui siamo cresciuti. Si deve adattare. Un sistema che un tempo davi per scontato potrebbe non funzionare più come desideri o di cui hai bisogno.
+È una distinzione semplice ma importante. Il modo in cui si cerca è spesso influenzato dalle tecnologie con cui siamo cresciuti. Si deve adattare. Un sistema che un tempo davi per scontato potrebbe non funzionare più come desideri o di cui hai bisogno.
 
-A volte, adattarsi può anche significare fare un passo indietro, per abbracciare modi di fare “più semplici”: utilizzare una biblioteca; utilizzare un browser che elimina l’intelligenza artificiale e la pubblicità, ecc.
+A volte, adattarsi può anche significare fare un passo indietro, per abbracciare modi di fare “più semplici”: utilizzare una biblioteca; utilizzare un browser che elimina l’intelligenza artificiale e la pubblicità, confrontare fonti ecc.
 
 ---
 
@@ -76,7 +76,7 @@ A volte, adattarsi può anche significare fare un passo indietro, per abbracciar
 
 ### Research literacy
 
-> “Research literacy is a set of **interdisciplinary, transferable competencies** that help individuals determine and diminish knowledge gaps. [...] Research literacy is the sum of the attributes required of lifelong learners.” — Grinnell College Libraries (n.d.)
+> “Research literacy is a set of **interdisciplinary, transferable competencies** that help individuals determine and diminish knowledge gaps. [...] Research literacy is the sum of the attributes required of lifelong learners.” — Grinnell College Libraries
 
 Nel mondo accademico ciò significa rispondere a una domanda di ricerca o a un’ipotesi avvalendosi di ricerche, risultati e approfondimenti già esistenti. Nel mondo reale significa essere in grado di risolvere un problema ampliando le proprie conoscenze. Si tratta di un percorso che dura tutta la vita.
 
@@ -93,7 +93,7 @@ Nel mondo accademico ciò significa rispondere a una domanda di ricerca o a un�
 
 <!-- _footer: ACRL. (2015). *Framework for Information Literacy for Higher Education*. https://www.ala.org/acrl/standards/ilframework Image: Unsplash. <a href="https://unsplash.com/photos/a-picture-of-a-painting-on-a-wall-P3aEFrDcRjY" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1703583955193-f6f4fdb84601?q=80&w=1350)
+![bg left](img/photo-1703583955193-f6f4fdb84601.jpg)
 
 ### Information literacy
 
@@ -110,15 +110,15 @@ Pietra miliare fondamentale della research literacy. Ecco i 6 principi su cui si
 
 <!-- _footer: ACRL. (2015). *Framework for Information Literacy for Higher Education*. https://www.ala.org/acrl/standards/ilframework Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-that-is-on-a-wall-JapoB9GcCz4" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1704121112682-92e352840bca?q=80&w=1369)
+![bg right](img/photo-1704121112682-92e352840bca.jpg)
 
 ### Information literacy
 
-_L'autorità è contestuale_ allo stesso modo in cui <a href="https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/03/20261113-workshop01.html" target="_blank">la conoscenza è situata</a>. Non bisogna mai fidarsi ciecamente di una fonte.
+_L'autorità è costruita e contestuale_ allo stesso modo in cui <a href="https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/03/20261113-workshop01.html" target="_blank">la conoscenza è situata</a>. Non bisogna mai fidarsi ciecamente di una fonte.
 
 _L’informazione ha valore_ perché oggi spesso consiste in dati e metadati relativi al mondo (incluso noi!).
 
-Si dever valutare i fonti, risultati, ecc.
+Si deve valutare i fonti, risultati, ecc.
 
 Per una guida in italiano su tutto questo, consultate <a href="https://www.aib.it/repertori/information-literacy-strumenti-di-lavoro/" target="_blank">Information Literacy – Strumenti di lavoro</a> dell’AIB.
 
@@ -135,11 +135,11 @@ Per una guida in italiano su tutto questo, consultate <a href="https://www.aib.i
 <!-- _class: steps -->
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/abstract-composition-with-overlapping-geometric-shapes-and-patterns-GXtOq9iaXNI" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1720033130673-1bbef9ff9370?q=80&w=1300)
+![bg left](img/photo-1720033130673-1bbef9ff9370.jpg)
 
 ### Where to find sources?
 
-* 🤔 Se avete bisogno di trovare una fonte online, dove cercate?
+🤔 Se avete bisogno di trovare una fonte online, dove cercate?
 
 
 * Motori di ricerca commerciali o specializzati (<a href="https://scholar.google.com/" target="_blank">Google Scholar</a>).
@@ -152,11 +152,11 @@ Per una guida in italiano su tutto questo, consultate <a href="https://www.aib.i
 <!-- _class: steps -->
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/abstract-composition-with-geometric-shapes-and-bold-colors-CXL6Nyf5uY8" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1740508905507-3276e3e42c45?q=80&w=1287)
+![bg right](img/photo-1740508905507-3276e3e42c45.jpg)
 
 ### How to evaluate sources?
 
-* 🤔 Se bisogna valutare una fonte, quali domande bisogna porsi?
+🤔 Se bisogna valutare una fonte, quali domande bisogna porsi?
 
 * Di che fonte si tratta? Quali sono le affermazioni riportate?
 * Chi è l’autore? Quali sono le sue credenziali?
@@ -178,7 +178,7 @@ Oggi la maggior parte dei motori di ricerca combina risultati “organici” con
 ### Tips, Tricks, Pitfalls
 
 #### Personalised results
-Se durante la ricerca avete effettuato l'accesso a un servizio come Google o Microsoft (il profilo), i risultati saranno personalizzati in base ai dati che l'azienda possiede. La stessa ricerca effettuata in un browser senza accesso potrebbe dare risultati diversi. Lo stesso vale per la posizione (indirizzo IP fornito dalla connessione, per quello si usa VPN).
+Se durante la ricerca avete effettuato l'accesso a un servizio come Google o Microsoft (il profilo), i risultati saranno personalizzati in base ai dati che l'azienda possiede. La stessa ricerca effettuata in un browser senza accesso potrebbe dare risultati diversi. Lo stesso vale per la posizione (indirizzo IP fornito dalla connessione, per cambiarlo si usa VPN).
 
 #### There is more than one page!
 È assolutamente possibile trovare ciò che si cerca anche oltre la prima pagina dei risultati.
@@ -192,9 +192,11 @@ La genAI sintetizza i risultati principali. Controllate sempre oppure <a href="h
 
 Potete scegliere autonomamente la fonte dei dati per l'esame finale. Per aiutarvi, vi fornisco anche un elenco di fonti che potete consultare o da cui potete partire; tutte offrono diversi tipi di oggetti digitalizzati, tra cui mappe, testi e immagini. La lista è nelle linee guida.
 
-<a href="https://www.europeana.eu/it" target="_blank">Europeana</a> (EU); <a href="https://www.loc.gov/free-to-use/" target="_blank">Library of Congress</a> (US); <a href="https://www.library.universiteitleiden.nl/special-collections/collections" target="_blank">Leiden University</a> (NL); <a href="https://historica.unibo.it/home" target="_blank">AMS Historica</a> (IT); <a href="https://www.nga.gov/artworks/free-images-and-open-access" target="_blank">National Gallery of Art</a> (US); <a href="https://www.internetculturale.it/" target="_blank">Internet Culturale</a> (IT); <a href="https://alphabetica.it/web/alphabetica" target="_blank">Alphabetica</a> (IT); <a href="https://imago.regione.emilia-romagna.it/opac/.do" target="_blank">Imago</a> (IT); <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank">Wikimedia Commons</a>; <a href="https://archive.org" target="_blank">Internet Archive</a>.
+<a href="https://www.europeana.eu/it" target="_blank">Europeana</a> (EU); <a href="https://www.loc.gov/free-to-use/" target="_blank">Library of Congress</a> (US); <a href="https://www.library.universiteitleiden.nl/special-collections/collections" target="_blank">Leiden University</a> (NL); <a href="https://historica.unibo.it/home" target="_blank">AMS Historica</a> (IT); <a href="https://www.nga.gov/artworks/free-images-and-open-access" target="_blank">National Gallery of Art</a> (US); <a href="https://www.internetculturale.it/" target="_blank">Internet Culturale</a> (IT); <a href="https://catalogo.beniculturali.it/" target="_blank">Catalogo Generale dei Beni Culturali</a> (IT) <a href="https://alphabetica.it/web/alphabetica" target="_blank">Alphabetica</a> (IT); <a href="https://imago.regione.emilia-romagna.it/opac/.do" target="_blank">Imago</a> (IT); <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank">Wikimedia Commons</a>; <a href="https://archive.org" target="_blank">Internet Archive</a>.
 
-Parleremo dei diritti, compreso il riutilizzo, nella Lezione 07. Per ora basta sapere che la maggior parte di queste fonti ha licenze permissive. In caso di dubbio, bisogno sempre di cercare un'oggetto con una licenza aperta o di dominio pubblico.
+Parleremo dei diritti, compreso il riutilizzo, nella Lezione 07. Per ora basta sapere che la maggior parte di queste fonti ha licenze permissive. In caso di dubbio, bisogno sempre cercare un'oggetto con una licenza aperta o di dominio pubblico.
+
+🤔 Avete già in mente una fonte? Se sì, quale?
 
 ---
 
@@ -221,7 +223,7 @@ Data literacy, in senso lato, è la capacità di **creare, manipolare, gestire, 
 
 <!-- _footer: Abner, K. (2020). Data Literacy as Digital Humanities Literacy: Exploration of Threshold Concepts. *dh+lib*. https://dhandlib.org/data-literacy-as-digital-humanities-literacy-exploration-of-threshold-concepts/ Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-green-circle-on-top-of-it-s2UR2Wg0Fec" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1699304050690-d4e88121bef6?q=80&w=1229)
+![bg left](img/photo-1699304050690-d4e88121bef6.jpg)
 
 ### Data Literacy concepts
 
@@ -238,12 +240,12 @@ Data literacy, in senso lato, è la capacità di **creare, manipolare, gestire, 
 
 <!-- _footer: 1/ D'Ignazio, C., & Klein, L. (2020). *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/ 2/ Risam, R. (2026). *Data Empire*. Random House. Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-circle-and-lines-on-it-p1b063_AAqY" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1699304050881-ee5f60712064?q=80&w=1249)
+![bg right](img/photo-1699304050881-ee5f60712064.jpg)
 
 ### Data Ethics
 
 - Qual è la licenza per l’uso/il riutilizzo?
-- Comeperché sono stati raccolti i dati?
+- Come/perché sono stati raccolti i dati?
 - Chi ne è stato, e potrebbe ancora esserne, interessato?
 - Perché vengono condivisi i dati?
 - Come vengono descritti i dati?
@@ -256,11 +258,11 @@ Come sostiene Roopika Risam, "anche se non tutto è dato, i dati sono ovunque."
 
 <!-- _footer: 1/ Candela, G., Dritsou, V., Chambers, S., Benardou, A., Irollo, A., & Tasovac, T. (2024). *Introduction to Collections as Data* (Version 1.0.0) [Training module]. DARIAH-Campus. https://hdl.handle.net/21.11159/019595c5-1bc8-751c-8201-bcdb34955a96 2/ Collections as Data. (n.d.). *Part to Whole*. https://collectionsasdata.github.io/part2whole/ Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-lot-of-different-colors-on-it-O4gzS4NUEAc" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1700607687445-dfeeab458701?q=80&w=1259)
+![bg left](img/photo-1700607687445-dfeeab458701.jpg)
 
 ### Collections as data
 
-<a href="https://collectionsasdata.github.io/part2whole/" target="_blank">“Collections as Data</a>” è un'iniziativa volta a promuovere la pubblicazione di collezioni digitali adatte a un utilizzo computazionale responsabile.
+“<a href="https://collectionsasdata.github.io/part2whole/" target="_blank">Collections as Data</a>” è un'iniziativa volta a promuovere la pubblicazione di collezioni digitali adatte a un utilizzo computazionale responsabile.
 
 Si tratta di un quadro di riferimento che consente alle istituzioni del patrimonio culturale di riflettere su come e perché rendere le proprie collezioni disponibili al pubblico per il (ri)utilizzo.
 
@@ -270,7 +272,7 @@ Attualmente si sta lavorando su l’implementazione e l’uso responsabile.
 
 <!-- _footer: Drucker, J. (2011). Humanities Approaches to Graphical Display. *Digital Humanities Quarterly*, *5*(1). https://dhq.digitalhumanities.org/vol/5/1/000091/000091.html Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-blue-and-brown-squares-on-it-0_erDmzjMkA" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1704121113037-5d3557a72423?q=80&w=1277)
+![bg right](img/photo-1704121113037-5d3557a72423.jpg)
 
 ### What if data is the wrong word?
 
@@ -305,7 +307,7 @@ I dati incarnano delle scelte su cosa contare e in che modo. Sono interpretazion
 
 <!-- _footer: Stewart, B. (2026). *DPI 2026 Keynote*. Digital Pedagogy Institute, University of Waterloo. https://uwaterloo.ca/digital-pedagogy-institute/keynotes Image: Unsplash. <a href="https://unsplash.com/photos/abstract-blue-buildings-and-figures-on-a-cream-background-rhkb5dmNBPQ" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1743965127529-1de2aa469477?q=80&w=1313)
+![bg right](img/photo-1743965127529-1de2aa469477.jpg)
 
 ### What are we talking about?
 
@@ -320,7 +322,7 @@ Significa **cose diverse per persone diverse in contesti diversi**: IA generativ
 <!-- _paginate: false -->
 <!-- _footer: 1/ McMillan Cottom, T. (2026, August 3). Want to Fight Back Against Big Tech? Start Here. *The New York Times*. https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html 2/ McMillan Cottom, T. (2026). *Data Politics*. Instagram. https://www.instagram.com/p/Dbl8-8eGsrl/ Image: Unsplash. <a href="https://unsplash.com/photos/a-piece-of-art-with-yellow-paint-on-it-4l1ahap6HJA" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1700607687506-5149877683e8?q=80&w=1319)
+![bg left](img/photo-1700607687506-5149877683e8.jpg)
 
 ### What are we talking about?
 
@@ -332,7 +334,7 @@ Ciò che conta, ma spesso rimane “non detto”, è che l’IA, come viene util
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-with-a-lot-of-different-colors-and-shapes-pycEuXHETPs" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1699306644793-052da5160f22?q=80&w=1286)
+![bg right](img/photo-1699306644793-052da5160f22.jpg)
 
 ### AI Literacy
 
@@ -345,11 +347,11 @@ Utilizzare le competenze già esistenti – ricerca, dati, informazioni – con 
 <!-- _class: steps -->
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/a-number-of-different-shades-of-paint-on-a-white-surface-41Wjp_3noHo" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1699306080297-5fbf0dcfafbf?q=80&w=1301)
+![bg left](img/photo-1699306080297-5fbf0dcfafbf.jpg)
 
 ### AI Literacy
 
-* 🤔 Secondo voi, cos’è necessario per AI literacy?
+🤔 Secondo voi, cos’è necessario per un tentativo di AI literacy?
 
 * Valutare come vengono recuperate e organizzate le informazioni.
 * Valutare l’accuratezza, la parzialità e la credibilità dei risultati prodotti dall’IA.
@@ -360,7 +362,7 @@ Utilizzare le competenze già esistenti – ricerca, dati, informazioni – con 
 
 <!-- _footer: 1/ Buolamwini, J. (2018). *Gender Shades*. http://gendershades.org/overview.html 2/ Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. Image: Unsplash. <a href="https://unsplash.com/photos/watercolor-painting-of-a-tree-by-a-lake-at-dusk-ptxJU7LdidI" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1744573011676-93c278587d6e?q=80&w=1284)
+![bg right](img/photo-1744573011676-93c278587d6e.jpg)
 
 ### Biases
 
@@ -376,16 +378,19 @@ I risultati devono essere interpretati nel loro contesto: storico, culturale, po
 
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/a-painting-of-a-yellow-sky-with-clouds-FZWUmI2OqKw" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1703587820370-6b401218e4a4?q=80&w=1362)
+![bg left](img/photo-1703587820370-6b401218e4a4.jpg)
 
 ### Costs
 
 - Delega cognitiva
 - Scelte etiche
+- Impatto ambientale
 - Illusione di comodità
 - Inevitabilità
-- Appropriazione dalla piattaforma
+- Platform capture
 - Illusione di autorità
+
+E altri di cui non siamo ancora a conoscenza.
 
 ---
 
@@ -396,11 +401,13 @@ I risultati devono essere interpretati nel loro contesto: storico, culturale, po
 
 * > "It is possible to learn about this technology without using it." — Fiesler (2026)
 
+* La scelta di uso/non-uso spetta a voi, dovreste comprenderne le implicazioni.
+
 ---
 
 <!-- _paginate: false -->
 
-![bg right](https://images.unsplash.com/photo-1704121113061-d174b9b9219b?q=80&w=1329)
+![bg right](img/photo-1704121113061-d174b9b9219b.jpg)
 
 # Digital Humanities / Data Management / Informatica per i Beni Culturali (2026/2027)
 

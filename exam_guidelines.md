@@ -89,6 +89,7 @@ Siete voi a scegliere i dati da usare. Per aiutarvi, ecco un elenco di fonti che
 | [AMS Historica](https://historica.unibo.it/home) | IT |
 | [National Gallery of Art](https://www.nga.gov/artworks/free-images-and-open-access) | US |
 | [Internet Culturale](https://www.internetculturale.it/) | IT |
+| [Catalogo Generale dei Beni Culturali](https://catalogo.beniculturali.it/) | IT |
 | [Alphabetica](https://alphabetica.it/web/alphabetica) | IT |
 | [Imago](https://imago.regione.emilia-romagna.it/opac/.do) | IT |
 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | – |
