@@ -4,7 +4,7 @@
 
 This is a running bibliography for the DH & Data Management for Cultural Heritage class, 26/27.
 
-Items are added after each of the four parts of the course are completed. See the [README](/DH_ravenna/README.md) file for course outline and the details of each part.
+Items are added after each of the four parts of the course are completed. See the [README](/README.md) file for course outline and the details of each part.
 
 **GenAI Disclosure**: this file was scaffolded, auto-populated, and APA formatted with Claude Code, using the lesson slides and other documentation as sources. It has been manually reviewed. 
 

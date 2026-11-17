@@ -12,42 +12,43 @@ This repository contains the lesson files for the course, alongside support mate
 * [Date e orari](https://virtuale.unibo.it/course/view.php?id=86025)
 * [Bibliography](/DH_ravenna/bibliography_26_27.md)
 
-## Programme overview 
+## Programme overview (updated 17/11/26)
 
 #### Part 1: Finding
 
 | Lezione | Titolo | Teoria | Pratica | Data |
 | ------- | ------ | ------ | ------- | ---- |
-| 01 | Introduction | Course, Digital Humanities | Ice breakers, Reflections | 09/11 |
-| 02 | DH Projects | Project as basic unit | Reverse engineer, Project interests | 12/11 |
-| 03 | Workshop | Values, Labour, Credit | GitHub, Markdown | 13/11 |
-| 04 | Finding Things | Research & Data Literacy, AI Literacy, Collections as Data | Data sources, search literacies | 16/11 |
+| 01 ✅ | Introduction | Course, Digital Humanities | Ice breakers, Reflections | 09/11 |
+| 02 ✅ | DH Projects | Project as basic unit | Reverse engineer, Project interests | 12/11 |
+| 03 ✅ | Workshop | Values, Labour, Credit | GitHub, Markdown | 13/11 |
+| 04 ✅ | Research, Data, AI Literacies | Finding things, Collections as Data | Data sources, search literacies | 16/11 |
 
 #### Part 2: Describing, Managing
 
 | Lezione | Titolo | Teoria | Pratica | Data |
 | ------- | ------ | ------ | ------- | ---- |
-| 05 | Describing Things | Data & Metadata, Schemas | Describe objects, Tag set | 19/11 |
-| 06 | Workshop | Planning, rights, ethics | Project demos, DMP | 20/11 |
-| 07 | Interpreting Things | Data modelling, databases | Spreadsheet databases | 23/11 |
-| 08 | Linked Open Data | LOD, RDF, Authority Files | Wikidata, SPARQL | 26/11 |
-| 09 | Workshop | Data Cleaning | OpenRefine | 27/11 |
+| 05 | Metadata & Standards | Metadata, Schemas, Standards, Dublin Core | Metadata records, Tag set | 19/11 |
+| 06 | Interpreting Things | Data modelling, databases | Spreadsheet databases | 23/11 |
+| 07 | Linked Open Data | LOD, RDF, Authority Files | Wikidata, SPARQL | 26/11 |
+| 08 | Workshop | Data Cleaning | OpenRefine | 27/11 |
+| 09 | Managing Data | Planning, rights, ethics | Project demos, DMP | 30/11 |
+
 
 #### Part 3: Analyzing, Presenting
 
 | Lezione | Titolo | Teoria | Pratica | Data |
 | ------- | ------ | ------ | ------- | ---- |
-| 10 | Working w/ Text | Analysis, Encoding, Transcription | Text tools | 30/11 |
-| 11 | Maps & Space | GIS, Geocoding | Mapping tools | 03/12 |
-| 12 | Collections & Prototyping | Interface, Data Mgmt | Collection tools | 04/12 |
-| 13 | Visualization | IIIF, 3D, Data Viz | IIIF, RAWGraphs | 10/12 |
+| 10 | Working w/ Text | Analysis, Encoding, Transcription | Text tools | 03/12 |
+| 11 | Maps & Space | GIS, Geocoding | Mapping tools | 04/12 |
+| 12 | Collections & Prototyping | Interface, Data Mgmt | Collection tools | 10/12 |
+| 13 | Visualization | IIIF, 3D, Data Viz | IIIF, RAWGraphs | 11/12 |
 
 #### Part 4: Sharing
 
 | Lezione | Titolo | Teoria | Pratica | Data |
 | ------- | ------ | ------ | ------- | ---- |
-| 14 | Open Science | FAIR, CARE, PIDs, Sustainability | README, Zenodo | 11/12 |
-| 15 | Workshop | Evaluation, Sharing | Project feedback | 14/12 |
+| 14 | Open Science | FAIR, CARE, PIDs, Sustainability | README, Zenodo | 14/12 |
+| 15 | Workshop | Evaluation, Sharing | Project demos, questions, feedback | 17/12 |
 
 ## GenAI Disclosure
 
@@ -55,7 +56,7 @@ Claude Code is used for the following:
 - manage git (local and remote to GitHub). 
 - script creation and updates for a local knowledge base (runs via context-mode plugin), which I use to help me search sources for the material, as well as slides formatting (image downloads, linting). 
 - ideation, including lesson and practice outlines.
-- support material for the exam, incl. scaffolding templates for the map and text tracks. 
+- support material for the exam and lessons, incl. scaffolding templates for the map and text tracks and for exercises. 
 - slide scaffolding, based on outlines.
 - marp management, incl. css boilerplate and tweaks.
 
