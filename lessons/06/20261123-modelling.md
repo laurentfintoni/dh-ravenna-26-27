@@ -8,7 +8,7 @@ paginate: true
 <!-- _paginate: false -->
 <!-- _footer: Image: Unsplash. <a href="https://unsplash.com/photos/photo-of-5-story-library-building-PkbZahEG2Ng" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1483736762161-1d107f3c78e1?q=80&w=2274)
+![bg right](img/photo-1483736762161-1d107f3c78e1.jpg)
 
 # DH & Data Management per i Beni Culturali (2026/2027)
 
@@ -20,7 +20,7 @@ paginate: true
 
 ---
 
-<!-- _footer: Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf. Image: Lev Manovich. -->
+<!-- _footer: Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf Image: Lev Manovich. -->
 
 ![bg left](img/manovich_db.jpg)
 
@@ -34,7 +34,7 @@ E quindi sorge una domanda: cosa succede alla nostra esperienza del mondo quando
 
 ---
 
-<!-- _footer: Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf. Image: Lev Manovich. -->
+<!-- _footer: Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf Image: Lev Manovich. -->
 
 ![bg right](img/manovich_db.jpg)
 
@@ -49,7 +49,7 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 ---
 
 <!-- _class: steps -->
-<!-- _footer: 1/ Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf. 2/ Hayles, N. K. (2007). Narrative and Database: Natural Symbionts. PMLA, 122(5), 1603–1608. http://www.jstor.org/stable/25501808 -->
+<!-- _footer: 1/ Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf 2/ Hayles, N. K. (2007). Narrative and Database: Natural Symbionts. *PMLA*, *122*(5), 1603–1608. http://www.jstor.org/stable/25501808 -->
 
 * >  "A narrative creates a cause-and-effect trajectory of seemingly unordered items. Therefore, **database and narrative are natural enemies**." — Manovich (1998)
 
@@ -71,7 +71,7 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 
 <!-- _class: steps -->
 
-### What we have seen so far 
+### What we have seen so far
 
 * ➡️ Il termine “dati” deriva dal latino “datum”, che significa “dato”.
 
@@ -90,9 +90,9 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 ---
 
 <!-- _class: steps -->
-<!-- _footer: Posner, M. (2015). *Humanities Data: A Necessary Contradiction*. https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/. Image: Unsplash. <a href="https://unsplash.com/photos/wavy-pattern-of-marbled-paper-in-earth-tones-gTJhb4dNmlA" target="_blank">Source</a>. -->
+<!-- _footer: Posner, M. (2015). *Humanities Data: A Necessary Contradiction*. https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/ Image: Unsplash. <a href="https://unsplash.com/photos/wavy-pattern-of-marbled-paper-in-earth-tones-gTJhb4dNmlA" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1761498186797-62ac4fdbd89f?q=80&w=1305)
+![bg left](img/photo-1761498186797-62ac4fdbd89f.jpg)
 
 ### "Oh, I don't have any data."
 
@@ -108,7 +108,7 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 
 <!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-paper-with-yellow-blue-and-brown-patterns-p-FmhBjXTuU" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1761498186708-83956331bfdf?q=80&w=1293)
+![bg right](img/photo-1761498186708-83956331bfdf.jpg)
 
 ### Data are taken, and made!
 
@@ -122,7 +122,7 @@ Nel **modello** Dublin Core, secondo l’ICCD, _La nascita di Venere_ è il sogg
 
 <!-- _footer: 1/ Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. 2/ Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/ hsr.suppl.31.2018.170-179. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-wavy-pattern-of-yellow-blue-red-and-brown-VFLyCmoPF3c" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1761498186739-90a020de29a4?q=80&w=1287)
+![bg left](img/photo-1761498186739-90a020de29a4.jpg)
 
 ### Reading a data model
 
@@ -138,7 +138,7 @@ Un modello di dati è un _punto di vista_ sul mondo. Non è **mai completo, ma s
 
 <!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. -->
 
-### You are making a model! 
+### You are making a model!
 
 Negli esercizi della <a href="https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html" target="_blank">lezione 05</a>, vi ho chiesto di creare una tabella e di inserirvi i campi di metadati che desiderate per gli oggetti del vostro progetto.
 
@@ -163,7 +163,7 @@ Questa tabella è un esempio di un modello per gli oggetti che si desidera utili
 
 <!-- _footer: Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/ hsr.suppl.31.2018.170-179. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-pattern-with-pastel-colors-NytGEQcaf-E" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1761498186802-5773dcd4a9d1?q=80&w=1290)
+![bg right](img/photo-1761498186802-5773dcd4a9d1.jpg)
 
 ### Entity relationship model
 
@@ -195,9 +195,9 @@ Le entità e le relazioni hanno degli **attributi** (ciò che le rende ciò che 
 
 ---
 
-<!-- _footer: Ramsay, S. (2004). Databases. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *A Companion to Digital Humanities*. Blackwell. https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_15.html. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-pattern-with-yellow-and-gray-waves-k5hY7Bc58T8" target="_blank">Source</a>. -->
+<!-- _footer: Ramsay, S. (2004). Databases. In S. Schreibman, R. Siemens, & J. Unsworth (Eds.), *A Companion to Digital Humanities*. Blackwell. https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_15.html Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-pattern-with-yellow-and-gray-waves-k5hY7Bc58T8" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1761498186724-99d9a6932320?q=80&w=1287)
+![bg left](img/photo-1761498186724-99d9a6932320.jpg)
 
 ### One to many, many to many
 
@@ -223,7 +223,6 @@ Qua sono illustrate le due opzioni più comuni utilizzate oggi.
 
 **Strumenti**: <a href="https://draw.io/" target="_blank">draw.io</a> o qualsiasi altro strumento che già utilizzi per disegnare, come Canva, Miro, ecc. (pen and paper!)
 
-
 ---
 
 <!-- _class: impact -->
@@ -236,9 +235,9 @@ Qua sono illustrate le due opzioni più comuni utilizzate oggi.
 
 <!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-wavy-pattern-of-yellow-blue-red-and-brown-VFLyCmoPF3c" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1761498186739-90a020de29a4?q=80&w=1287)
+![bg left](img/photo-1761498186739-90a020de29a4.jpg)
 
-### So what's a database? 
+### So what's a database?
 
 Qualsiasi **raccolta organizzata di informazioni strutturate** (dati) archiviata (elettronicamente) e gestita da un sistema per l'accesso, il recupero e la gestione può essere definita un database.
 
@@ -261,7 +260,7 @@ I dati semi-strutturati (documento XML) sono **gerarchici**: un'entità “conti
 - L'artista e la data di nascita sono riportati per esteso in ogni riga;
 - Lo stesso artista è indicato in diversi modi.
 
-Ciò crea problemi sia in termini di relazioni tra i dati (si tratta della stessa persona?), sia in termini di gestione (per correggere l'errore è necessario modificare ogni singola occorrenza). 
+Ciò crea problemi sia in termini di relazioni tra i dati (si tratta della stessa persona?), sia in termini di gestione (per correggere l'errore è necessario modificare ogni singola occorrenza).
 
 ---
 
@@ -300,7 +299,7 @@ Quando abbiamo più tabelle di dati collegate tra loro, abbiamo _dati relazional
 
 ![bg right contain](img/0807.png)
 
-### Ok, but why? 
+### Ok, but why?
 
 Il modello relazionale è usato per progettare database relazionali, la tipologia di database più comune. Ciononostante, _non è necessario usare un database relazionale per poter usufruire dei vantaggi di un modello relazionale_!
 
@@ -335,15 +334,15 @@ Quando lavoriamo con dati relazionali, dobbiamo **unire** le informazioni da div
 
 I due tipi di chiave più comuni nel modello di dati relazionali sono:
 * _**Primaria**_: _una chiave che identifica univocamente i dati in una tabella_ (è la definizione di chiave, in pratica);
-* _**Esterna**_: _un riferimento ad una chiave primaria in un'altra tabella_ (chiave esterna in tabella 1 = primaria in 2). 
+* _**Esterna**_: _un riferimento ad una chiave primaria in un'altra tabella_ (chiave esterna in tabella 1 = primaria in 2).
 
 Chiavi primarie (meccanismo di identificazione univoca) e chiavi esterne (riferimento a quell'identificazione) permettono le relazioni tra tabelle.
 
 ---
 
-<!-- _footer: 1/ Ciula, A., Eide, Ø., Marras, C., & Sahle, P. (2018). Models and Modelling between Digital and Humanities: Remarks from a Multidisciplinary Perspective. Historical Social Research, 43(4), 343-361. https://doi.org/10.12759/hsr.43.2018.4.343-361. 2/ Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/hsr.suppl.31.2018.170-179. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-wavy-pattern-with-red-yellow-and-blue-colors-KbSdthZ2lZ8" target="_blank">Source</a>. -->
+<!-- _footer: 1/ Ciula, A., Eide, Ø., Marras, C., & Sahle, P. (2018). Models and Modelling between Digital and Humanities: Remarks from a Multidisciplinary Perspective. *Historical Social Research*, *43*(4), 343-361. https://doi.org/10.12759/hsr.43.2018.4.343-361 2/ Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/hsr.suppl.31.2018.170-179 Image: Unsplash. <a href="https://unsplash.com/photos/abstract-wavy-pattern-with-red-yellow-and-blue-colors-KbSdthZ2lZ8" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1761498186778-aae4d422b963?q=80&w=1303)
+![bg left](img/photo-1761498186778-aae4d422b963.jpg)
 
 ### From objects to databases via models
 
@@ -366,7 +365,7 @@ Si modella il mondo reale per trasformarlo in dati, che vengono poi strutturati 
 <!-- _footer: Image: Unsplash. <a href="
 https://unsplash.com/photos/marbled-paper-with-swirling-patterns-in-muted-colors-8eDovdAAxKU" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1755546368194-ad2a19151af4?q=80&w=1305)
+![bg right](img/photo-1755546368194-ad2a19151af4.jpg)
 
 ### Databases everywhere
 
@@ -386,7 +385,7 @@ La gestione dei dati implica _la comprensione e l’interazione con i database_.
 <!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. Image: Unsplash. <a href="
 https://unsplash.com/photos/marbled-paper-with-swirling-patterns-and-muted-colors-nEJJANhuNh0" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1755546368173-f639fd0a5da0?q=80&w=1290)
+![bg left](img/photo-1755546368173-f639fd0a5da0.jpg)
 
 ### Databases for dummies
 
@@ -401,7 +400,7 @@ Spreadsheet databases (una sola tabella) rappresentano il modo migliore per impa
 <!-- _footer: Image: Unsplash. <a href="
 https://unsplash.com/photos/marbled-paper-with-swirling-red-yellow-and-blue-patterns-z9PydKn2vSk" target="_blank">Source</a>. -->
 
-![bg right](https://images.unsplash.com/photo-1755546368036-2b04761b8983?q=80&w=1286)
+![bg right](img/photo-1755546368036-2b04761b8983.jpg)
 
 ### Comma Separated Values
 
@@ -412,7 +411,7 @@ https://unsplash.com/photos/marbled-paper-with-swirling-red-yellow-and-blue-patt
 - La prima riga contiene i nomi delle colonne.
 - Un valore che contiene una virgola va racchiuso tra **virgolette**.
 
-🥳 È una tabella! È piatta! È un database! 
+🥳 È una tabella! È piatta! È un database!
 
 🤫 È anche la rappresentazione di un modello.
 
@@ -421,7 +420,7 @@ https://unsplash.com/photos/marbled-paper-with-swirling-red-yellow-and-blue-patt
 <!-- _footer: Image: Unsplash. <a href="
 https://unsplash.com/photos/abstract-marbled-paper-with-swirling-patterns-kDg5_LwY3wU" target="_blank">Source</a>. -->
 
-![bg left](https://images.unsplash.com/photo-1755543042015-45deda3ed4e6?q=80&w=1287)
+![bg left](img/photo-1755543042015-45deda3ed4e6.jpg)
 
 ### CSV files are very sensitive
 
@@ -437,12 +436,14 @@ Quando apri un file .csv in un programma, questo viene _interpretato_. E **a vol
 
 ---
 
+<!-- _paginate: false -->
+
 ![bg contain vertical](img/csv_1.jpg)
 ![bg contain vertical](img/csv_2.jpg)
 
 ---
 
-### CSVs in Google Sheets 
+### CSVs in Google Sheets
 
 Google Sheets vi permette di modificare il vostro file CSV come qualsiasi altro tipo di foglio di calcolo, il che è utile se preferite “vedere” i vostri dati in un formato familiare (una tabella!).
 
@@ -472,19 +473,21 @@ Le linee guida per l'esame richiedono “dati e modello di dati”. Cosa signifi
 | `date` | year of creation | YYYY or YYYY–YYYY | 1482–1486 |
 | `publisher` | makes object available | free text | Uffizi |
 
-Questa tabella ti aiuti a capire quali sono le vostre entità, relazioni e attributi. **Fa parte del modello di dati**! Quindi: diagramma + tabella dei metadati. 
+Questa tabella ti aiuti a capire quali sono le vostre entità, relazioni e attributi. **Fa parte del modello di dati**! Quindi: diagramma + tabella dei metadati.
 
---- 
+---
+
+<!-- _paginate: false -->
 
 ![bg contain](img/er_project_demo.jpg)
 
 ---
 
-### You are creating a small, flat database 
+### You are creating a small, flat database
 
 ✅ Una volta scelti gli oggetti e il modello, potrete creare i dati da inserire in un file CSV, che verrà utilizzato per “popolare” il sito web del vostro progetto.
 
-⚠️ Vi verrà fornito un template CSV in base al percorso che sceglierete. Potrete aggiungere, rimuovere o modificare le colonne all’interno del template per allinearlo al vostro data model (e alla tabella dei metadati). 
+⚠️ Vi verrà fornito un template CSV in base al percorso che sceglierete. Potrete aggiungere, rimuovere o modificare le colonne all’interno del template per allinearlo al vostro data model (e alla tabella dei metadati).
 
 Una riga = un elemento (dati dell’oggetto).
 
@@ -502,13 +505,13 @@ Valori (di ciascuna colonna) = metadati.
 
 ✅ Dovete normalizzare i vostri dati mantenendo la coerenza ortografica.
 
-💡 Se i vostri oggetti hanno lo stesso autore (per esempio), forse non avete bisogno di un attributo “autore”, poiché l’autore è un attributo della collezione e non dei singoli elementi (quindi lo includete nella vostra narrazione)! Smart data management. 
+💡 Se i vostri oggetti hanno lo stesso autore (per esempio), forse non avete bisogno di un attributo “autore”, poiché l’autore è un attributo della collezione e non dei singoli elementi (quindi lo includete nella vostra narrazione)! Smart data management.
 
 Nelle prossime due lezioni vedremo come utilizzare le autorità per controllare l’ortografia e i valori dei vostri dati e per creare un collegamento a un database esterno (una semplice chiave esterna).
 
 ---
 
-### Things to think about 
+### Things to think about
 
 💡 Quando avete modellato i vostri oggetti, quali informazioni avete tralasciato? Cosa è stato difficile rappresentare?
 
@@ -530,15 +533,15 @@ I vostri _oggetti diventano dati attraverso la modellazione_. Il vostro _databas
 - Lezione 08: come pulire i vostri dati.
 - Parte 3: come raccontare una storia con i vostri dati.
 
-L'astrazione e la modellizzazione possono sembrare difficili, ma in realtà le mettiamo in pratica continuamente mentre interagiamo con il mondo. Sono la teoria che sta alla base delle storie che raccontiamo sul mondo. 
+L'astrazione e la modellizzazione possono sembrare difficili, ma in realtà le mettiamo in pratica continuamente mentre interagiamo con il mondo. Sono la teoria che sta alla base delle storie che raccontiamo sul mondo.
 
-La modellizzazione appartiene all'informatica. La narrativa appartiene alle discipline umanistiche. Devono essere usato insieme! 
+La modellizzazione appartiene all'informatica. La narrativa appartiene alle discipline umanistiche. Devono essere usato insieme!
 
 ---
 
 <!-- _paginate: false -->
 
-![bg right](https://images.unsplash.com/photo-1483736762161-1d107f3c78e1?q=80&w=2274)
+![bg right](img/photo-1483736762161-1d107f3c78e1.jpg)
 
 # DH & Data Management per i Beni Culturali (2026/2027)
 
