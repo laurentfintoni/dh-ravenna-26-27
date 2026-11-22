@@ -42,10 +42,10 @@ Oltre a quanto sopra, si applicano anche le seguenti disposizioni:
 I seguenti requisiti si applicano a tutti i prototipi, indipendentemente dal percorso/ambito scelto. Tutti questi aspetti saranno illustrati durante il corso.
 
 - Domanda di ricerca ([Lezione 2](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/02/20261112-anatomyproject.html))
-- Dati (in base al percorso scelto) e modello di dati (Lezione 7)
-- Metadati (Lezioni 5, 9)
-- Collegamento ad almeno una authority source come Wikidata, VIAF, AAT ecc. (Lezioni 8, 9)
-- Licenza, panoramica dei diritti e mini piano di gestione dei dati (Lezione 6)
+- Dati (in base al percorso scelto) e modello di dati (Lezione 6)
+- Metadati (Lezioni [5](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html), 8)
+- Collegamento ad almeno una authority source come Wikidata, VIAF, AAT ecc. (Lezioni 7, 8)
+- Licenza, panoramica dei diritti e mini piano di gestione dei dati (Lezione 9)
 - File README, documentazione (worklog), GenAI doc (Lezioni 3, 4, 14)
 - DOI Zenodo (Lezione 14)
 
