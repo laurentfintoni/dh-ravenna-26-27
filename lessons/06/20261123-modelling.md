@@ -51,9 +51,9 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 <!-- _class: steps -->
 <!-- _footer: 1/ Manovich, L. (1998). *Database as a Symbolic Form*. https://manovich.net/content/04-projects/025-database-as-a-symbolic-form/19_article_1998.pdf 2/ Hayles, N. K. (2007). Narrative and Database: Natural Symbionts. *PMLA*, *122*(5), 1603–1608. http://www.jstor.org/stable/25501808 -->
 
-* >  "A narrative creates a cause-and-effect trajectory of seemingly unordered items. Therefore, **database and narrative are natural enemies**." — Manovich (1998)
+* >  "A narrative creates a cause-and-effect trajectory of seemingly unordered items. Therefore, **database and narrative are natural enemies**." — _Manovich_ (1998)
 
-* > "**Narratives remain the necessary others** to databases, [they] invest the formal logic of database operations with human meanings." — Hayles (2007)
+* > "**Narratives remain the necessary others to databases**, [they] invest the formal logic of database operations with human meanings." — _Hayles_ (2007)
 
 * Mentre una collezione (di oggetti) è un database, una mostra offre una narrazione attraverso di essa. (🤫 ecco di cosa tratta il vostro progetto)
 
@@ -96,7 +96,7 @@ Seguendo questa logica, afferma, un museo può trasformarsi in un database grazi
 
 ### "Oh, I don't have any data."
 
-* Nelle discipline umanistiche, ci confrontiamo con le fonti attraverso l’immersione: leggiamo, osserviamo, contestualizziamo. Arriviamo a comprendere la ricchezza di un oggetto.
+Nelle discipline umanistiche, ci confrontiamo con le fonti attraverso l’immersione: leggiamo, osserviamo, contestualizziamo. Arriviamo a comprendere la ricchezza di un oggetto.
 
 * Ma come si traduce tutto questo in dati?
 
@@ -136,7 +136,7 @@ Un modello di dati è un _punto di vista_ sul mondo. Non è **mai completo, ma s
 
 ---
 
-<!-- _footer: Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. -->
+<!-- _footer: 1/ Drucker, J., & Albrezzi, F. (2025). *The Digital Humanities Coursebook* (2nd ed.). Routledge. 2/ Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/hsr.suppl.31.2018.170-179 -->
 
 ### You are making a model!
 
@@ -149,7 +149,7 @@ Negli esercizi della <a href="https://laurentfintoni.github.io/dh-ravenna-26-27/
 
 Questa tabella è un esempio di un modello per gli oggetti che si desidera utilizzare nel progetto. Si **sceglie una caratteristica** (campo), si definisce come **renderla esplicita** (definizione) e se ne specifica il **formato** (regola di valore).
 
-😵‍💫 Modellare significa scegliere gli aspetti della realtà osservata da rappresentare formalmente. Più punti di vista abbiamo sullo stesso oggetto, più modelli potremo raccogliere!
+😵‍💫 Più punti di vista abbiamo sullo stesso oggetto, più modelli potremo raccogliere!
 
 ---
 
@@ -161,7 +161,7 @@ Questa tabella è un esempio di un modello per gli oggetti che si desidera utili
 
 ---
 
-<!-- _footer: Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/ hsr.suppl.31.2018.170-179. Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-pattern-with-pastel-colors-NytGEQcaf-E" target="_blank">Source</a>. -->
+<!-- _footer: Tomasi, F. (2020). *Modelling in the Digital Humanities: Conceptual Data Models and Knowledge Organization in the Cultural Heritage Domain*. Historical Social Research Supplement 31, 170–179. https://doi.org/10.12759/hsr.suppl.31.2018.170-179 Image: Unsplash. <a href="https://unsplash.com/photos/abstract-marbled-pattern-with-pastel-colors-NytGEQcaf-E" target="_blank">Source</a>. -->
 
 ![bg right](img/photo-1761498186802-5773dcd4a9d1.jpg)
 
@@ -259,6 +259,7 @@ I dati semi-strutturati (documento XML) sono **gerarchici**: un'entità “conti
 
 - L'artista e la data di nascita sono riportati per esteso in ogni riga;
 - Lo stesso artista è indicato in diversi modi.
+- Anche il museo e la città vengono ripetuti
 
 Ciò crea problemi sia in termini di relazioni tra i dati (si tratta della stessa persona?), sia in termini di gestione (per correggere l'errore è necessario modificare ogni singola occorrenza).
 
@@ -275,7 +276,7 @@ La **normalizzazione dei dati** è _il processo di riduzione della ridondanza ne
 - Ogni campo è **unico e identificato** in maniera univoca.
 - I dati normalizzati **non hanno valori ripetuti**.
 
-🤔 Da un tavolo se ne creano molti. Come facciamo a collegarli tra loro? Abbiamo bisogno di un cambiamento concettuale!
+🤔 Da un tavolo se ne creano molti. Come facciamo a collegarli tra loro? Dobbiamo usare l'astrazione!
 
 ---
 
@@ -333,8 +334,8 @@ Quando lavoriamo con dati relazionali, dobbiamo **unire** le informazioni da div
 ### Primary and external keys
 
 I due tipi di chiave più comuni nel modello di dati relazionali sono:
-* _**Primaria**_: _una chiave che identifica univocamente i dati in una tabella_ (è la definizione di chiave, in pratica);
-* _**Esterna**_: _un riferimento ad una chiave primaria in un'altra tabella_ (chiave esterna in tabella 1 = primaria in 2).
+- _**Primaria**_: _una chiave che identifica univocamente i dati in una tabella_ (è la definizione di chiave, in pratica);
+- _**Esterna**_: _un riferimento ad una chiave primaria in un'altra tabella_ (chiave esterna in tabella 1 = primaria in 2).
 
 Chiavi primarie (meccanismo di identificazione univoca) e chiavi esterne (riferimento a quell'identificazione) permettono le relazioni tra tabelle.
 
@@ -389,7 +390,7 @@ https://unsplash.com/photos/marbled-paper-with-swirling-patterns-and-muted-color
 
 ### Databases for dummies
 
-Un database relazionale implica che i tuoi dati possano essere voluminosi, articolati e complessi.
+Un database relazionale implica che i dati possano essere voluminosi, articolati e complessi.
 
 Ma! I dati possono essere **voluminosi senza essere complessi**. Possono essere **articolati senza essere voluminosi**. A volte basta un foglio di calcolo.
 
@@ -404,9 +405,9 @@ https://unsplash.com/photos/marbled-paper-with-swirling-red-yellow-and-blue-patt
 
 ### Comma Separated Values
 
-⚠️ Un database in formato foglio di calcolo è solitamente strutturato come file CSV (valori separati da virgole).
+⚠️ Un database in formato foglio di calcolo solitamente usa CSV (valori separati da virgole) come formatto.
 
-- Una riga per ogni linea.
+- Una riga per ogni entita.
 - Valori separati da **virgole**.
 - La prima riga contiene i nomi delle colonne.
 - Un valore che contiene una virgola va racchiuso tra **virgolette**.
@@ -473,7 +474,7 @@ Le linee guida per l'esame richiedono “dati e modello di dati”. Cosa signifi
 | `date` | year of creation | YYYY or YYYY–YYYY | 1482–1486 |
 | `publisher` | makes object available | free text | Uffizi |
 
-Questa tabella ti aiuti a capire quali sono le vostre entità, relazioni e attributi. **Fa parte del modello di dati**! Quindi: diagramma + tabella dei metadati.
+Questa tabella vi aiuta a capire quali sono le relazioni e attributi delle vostre entità. **Fa parte del modello di dati**! Quindi: diagramma + tabella dei metadati.
 
 ---
 
@@ -489,7 +490,7 @@ Questa tabella ti aiuti a capire quali sono le vostre entità, relazioni e attri
 
 ⚠️ Vi verrà fornito un template CSV in base al percorso che sceglierete. Potrete aggiungere, rimuovere o modificare le colonne all’interno del template per allinearlo al vostro data model (e alla tabella dei metadati).
 
-Una riga = un elemento (dati dell’oggetto).
+Una riga = un entità (oggetto e i suoi dati).
 
 Colonne = gli attributi dei vostri oggetti, in base al vostro modello. Le colonne presenti nel template rappresentano un punto di partenza, ovvero attributi comuni a molti tipi di oggetti. Il vostro data model ne aggiunge o ne rimuove alcuni.
 
@@ -505,7 +506,7 @@ Valori (di ciascuna colonna) = metadati.
 
 ✅ Dovete normalizzare i vostri dati mantenendo la coerenza ortografica.
 
-💡 Se i vostri oggetti hanno lo stesso autore (per esempio), forse non avete bisogno di un attributo “autore”, poiché l’autore è un attributo della collezione e non dei singoli elementi (quindi lo includete nella vostra narrazione)! Smart data management.
+💡 Se i vostri oggetti hanno lo stesso autore (per esempio), forse non avete bisogno di un attributo “autore”, poiché l’autore è un attributo della collezione e non dei singoli elementi (quindi lo includete nella vostra narrazione)! Smart data management 😉
 
 Nelle prossime due lezioni vedremo come utilizzare le autorità per controllare l’ortografia e i valori dei vostri dati e per creare un collegamento a un database esterno (una semplice chiave esterna).
 
