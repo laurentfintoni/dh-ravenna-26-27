@@ -24,7 +24,7 @@ Questo prototipo vera presentato in un esame orale di circa 20 mins.
 1. Il prototipo deve includere quanto segue: 
     - un sito pubblico e/o un repository; 
     - una descrizione dei dati e delle funzionalità; 
-    - la documentazione; 
+    - la documentazione relativa alle varie parti del progetto; 
     - un Identificatore di Oggetto Digitale (o DOI) fornito da Zenodo o da un altro servizio a vostra scelta.
 2. Il prototipo può avere una portata limitata, ad esempio per quanto riguarda il numero di elementi o funzionalità incluse o il livello di rifinitura complessivo. Può anche essere più esteso, se lo desiderate.
 3. Se si opta per una portata più ridotta, sarà necessario includere anche una semplice roadmap che illustri come sarebbe la versione completa.
@@ -42,11 +42,11 @@ Oltre a quanto sopra, si applicano anche le seguenti disposizioni:
 I seguenti requisiti si applicano a tutti i prototipi, indipendentemente dal percorso/ambito scelto. Tutti questi aspetti saranno illustrati durante il corso.
 
 - Domanda di ricerca ([Lezione 2](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/02/20261112-anatomyproject.html))
-- Dati (in base al percorso scelto) e modello di dati (Lezione 6)
-- Metadati (Lezioni [5](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html), 8)
+- Dati (in base al percorso scelto) e modello di dati ([Lezione 6](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/06/20261123-modelling.html))
+- Metadati e tabella dei metadati; la tabella illustra la funzione di ciascun campo del database, le relative regole e, se del caso, la sua corrispondenza con gli schemi esistenti (Lezioni [5](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html), 7, 8)
 - Collegamento ad almeno una authority source come Wikidata, VIAF, AAT ecc. (Lezioni 7, 8)
 - Licenza, panoramica dei diritti e mini piano di gestione dei dati (Lezione 9)
-- File README, documentazione (worklog), GenAI doc (Lezioni 3, 4, 14)
+- File README, documentazione (worklog), GenAI doc (Lezioni [3](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/03/20261113-workshop01.html), [4](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/04/20261116-search-lit.html), 14)
 - DOI Zenodo (Lezione 14)
 
 Tutti saranno valutati in base a questi requisiti, che costituiscono il 35% del punteggio massimo ottenibile (vedi valutazione).

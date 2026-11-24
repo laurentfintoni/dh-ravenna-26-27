@@ -28,8 +28,8 @@ This repository contains the lesson files for the course, alongside support mate
 | Lezione | Titolo | Teoria | Pratica | Data |
 | ------- | ------ | ------ | ------- | ---- |
 | 05 ✅ | Metadata & Standards | Metadata, Schemas, Standards, Dublin Core | Metadata records, Tag set | 19/11 |
-| 06 | Modelling & Databases | Data modelling, E/R, Relational Model, Spreadsheet databases | Modelling, flat to relational | 23/11 |
-| 07 | Linked Open Data | LOD, RDF, Authority Files | Wikidata, SPARQL | 26/11 |
+| 06 ✅ | Modelling & Databases | Data modelling, E/R, Relational Model, Spreadsheet databases | Modelling, flat to relational | 23/11 |
+| 07 | Authorities & Linked Open Data | Authority Controls, LOD, Graphs, Wikidata | Wikidata, tags to terms | 26/11 |
 | 08 | Workshop | Data Cleaning | OpenRefine | 27/11 |
 | 09 | Managing Data | Planning, rights, ethics | Project demos, DMP | 30/11 |
 

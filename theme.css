@@ -113,6 +113,11 @@ th, td {
   text-align: left;
 }
 
+/* dense table: `<!-- _class: table-sm -->` when a wide/long table overflows */
+section.table-sm table { font-size: 0.65em; }
+section.table-sm th,
+section.table-sm td { padding: 0.25rem 0.4rem; }
+
 figure {
   text-align: center;
 }
