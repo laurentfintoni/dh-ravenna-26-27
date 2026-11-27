@@ -41,10 +41,12 @@ Oltre a quanto sopra, si applicano anche le seguenti disposizioni:
 
 I seguenti requisiti si applicano a tutti i prototipi, indipendentemente dal percorso/ambito scelto. Tutti questi aspetti saranno illustrati durante il corso.
 
-- Domanda di ricerca ([Lezione 2](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/02/20261112-anatomyproject.html))
-- Dati (in base al percorso scelto) e modello di dati ([Lezione 6](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/06/20261123-modelling.html))
-- Metadati e tabella dei metadati; la tabella illustra la funzione di ciascun campo del database, le relative regole e, se del caso, la sua corrispondenza con gli schemi esistenti (Lezioni [5](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html), 7, 8)
-- Collegamento ad almeno una authority source come Wikidata, VIAF, AAT ecc. (Lezioni 7, 8)
+- Domanda di ricerca ([Lezione 2](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/02/20261112-anatomyproject.html));
+- Dati (in base al percorso scelto); nel caso usate dati vostri o non disponibili online le dovrette includere nel GitHub ([Lezione 6](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/06/20261123-modelling.html));
+- Modello di dati in formatto diagramma E/R ([Lezione 6](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/06/20261123-modelling.html));
+- Tabella di dati; questa tabella è il vostro database per il percorso scelto, viene creata secondo il vostro modello, e quindi include i metadati che avete creato; viene puoi combinata con la tabella del template scelto per la sua versione finale (Lezioni [6](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/06/20261123-modelling.html), 8);
+- Tabella dei metadati; questa tabella è il vostro schema, spiega come funziona la vostra tabella di dati, le relative regole e, se del caso, la sua corrispondenza con gli schemi esistenti (Lezioni [5](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/05/20261119-metadata.html), [7](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/07/20261126-lod.html), 8)
+- Collegamento ad almeno una authority source come Wikidata, VIAF, AAT ecc. (Lezioni [7](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/07/20261126-lod.html), 8)
 - Licenza, panoramica dei diritti e mini piano di gestione dei dati (Lezione 9)
 - File README, documentazione (worklog), GenAI doc (Lezioni [3](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/03/20261113-workshop01.html), [4](https://laurentfintoni.github.io/dh-ravenna-26-27/lessons/04/20261116-search-lit.html), 14)
 - DOI Zenodo (Lezione 14)
